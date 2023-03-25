@@ -74,8 +74,7 @@ def check_user_option(user_option, options, apprentices, options_descriptions):
 
             save_data(apprentices, filename, should_overwrite)
     elif choice == "Paramètres":
-        show_settings(fast_setup_apprentice_generation_count,
-                      fast_setup_filename, fast_setup_should_overwrite)
+        show_settings()
     else:
         quit_program()
         should_continue = False
