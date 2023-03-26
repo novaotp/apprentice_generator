@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Give execute permission to the app executable
+chmod +x apprentice_generator_gui
+
+# Give read and write permission to the config directory and its contents
+chmod -R +rw config
+
 # Get the current working directory
 CWD="$(pwd)"
 
