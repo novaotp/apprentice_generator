@@ -1,0 +1,4722 @@
+PKLocNb;NPA;LocName
+1;8355;Aadorf
+2;5000;Aarau
+3;5001;Aarau
+4;5004;Aarau
+5;5000;Aarau 1 Briefausgabe
+6;5000;Aarau 3
+7;5001;Aarau KPD
+8;3270;Aarberg
+9;4663;Aarburg
+10;4912;Aarwangen
+11;8607;Aathal-Seegräben
+12;8522;Aawangen
+13;1657;Abländschen
+14;5646;Abtwil AG
+15;9030;Abtwil SG
+16;3725;Achseten
+17;1123;Aclens
+18;6716;Acquarossa
+19;3715;Adelboden
+20;8345;Adetswil
+21;6043;Adligenswil
+22;8452;Adlikon b. Andelfingen
+23;8106;Adlikon b. Regensdorf
+24;8134;Adliswil
+25;8134;Adliswil 1
+26;8134;Adliswil 2
+27;4714;Aedermannsdorf
+28;3426;Aefligen
+29;2558;Aegerten
+30;8904;Aesch b. Birmensdorf
+31;8412;Aesch b. Neftenbach
+32;4147;Aesch BL
+33;6287;Aesch LU
+34;3536;Aeschau
+35;3703;Aeschi b. Spiez
+36;4556;Aeschi SO
+37;3703;Aeschiried
+38;3516;Aeschlen b. Oberdiessbach
+39;3656;Aeschlen ob Gunten
+40;4583;Aetigkofen
+41;4587;Aetingen
+42;5645;Aettenschwil
+43;8914;Aeugst am Albis
+44;8920;Aeugstertal
+45;7250;Aeuja
+46;9556;Affeltrangen
+47;8910;Affoltern am Albis
+48;3416;Affoltern im Emmental
+49;3951;Agarn
+50;6597;Agarone
+51;8308;Agasul
+52;1352;Agiez
+53;6982;Agno
+54;6927;Agra
+55;3216;Agriswil
+56;1860;Aigle
+57;1219;Aïre
+58;1219;Aïre Cases
+59;1288;Aire-la-Ville
+60;6780;Airolo
+61;6781;Airolo Sortite
+62;6248;Alberswil
+63;1669;Albeuve
+64;3941;Albinen
+65;3183;Albligen
+66;6962;Albonago
+67;3422;Alchenflüh
+68;3473;Alchenstorf
+69;6974;Aldesago
+70;9249;Algetshausen
+71;5643;Alikon
+72;6781;All'Acqua
+73;1165;Allaman
+74;2942;Alle
+75;6319;Allenwinden
+76;4615;Allerheiligenberg
+77;3112;Allmendingen b. Bern
+78;4123;Allschwil
+79;4123;Allschwil 1
+80;4123;Allschwil 2
+81;4123;Allschwil 3
+82;7416;Almens
+83;6315;Alosen
+84;7710;Alp Grüm
+85;6055;Alpnach Dorf
+86;6053;Alpnachstad
+87;8849;Alpthal
+88;9656;Alt St. Johann
+89;3280;Altavilla
+90;6147;Altbüron
+91;8243;Altdorf SH
+92;6460;Altdorf UR
+93;8453;Alten
+94;8852;Altendorf
+95;9423;Altenrhein
+96;1715;Alterswil FR
+97;8573;Alterswilen
+98;8479;Altikon
+99;8573;Altishausen
+100;6246;Altishofen
+101;8595;Altnau
+102;9450;Altstätten SG
+103;6286;Altwis
+104;7473;Alvaneu Bad
+105;7492;Alvaneu Dorf
+106;7451;Alvaschein
+107;7447;Am Bach (Avers)
+108;6775;Ambri
+109;8873;Amden
+110;3962;Aminona
+111;8515;Amlikon
+112;4573;Ammannsegg
+113;5600;Ammerswil AG
+114;3257;Ammerzwil BE
+115;8580;Amriswil
+116;3633;Amsoldingen
+117;6474;Amsteg
+118;7440;Andeer
+119;8450;Andelfingen
+120;6490;Andermatt
+121;8572;Andhausen
+122;7159;Andiast
+123;9204;Andwil SG
+124;8586;Andwil TG
+125;5611;Anglikon (Wohlen AG)
+126;1247;Anières
+127;4469;Anwil
+128;1972;Anzère
+129;6748;Anzonico
+130;9050;Appenzell
+131;1143;Apples
+132;1994;Aproz
+133;6711;Aquila
+134;1603;Aran
+135;6994;Aranno
+136;1974;Arbaz
+137;6517;Arbedo
+138;4424;Arboldswil
+139;9320;Arbon
+140;6618;Arcegno
+141;3296;Arch
+142;1732;Arconciel
+143;7546;Ardez
+144;1957;Ardon
+145;2015;Areuse
+146;7104;Arezen
+147;4422;Arisdorf
+148;5628;Aristau
+149;4144;Arlesheim
+150;9212;Arnegg
+151;1277;Arnex-sur-Nyon
+152;1321;Arnex-sur-Orbe
+153;8905;Arni AG
+154;3508;Arni BE
+155;8905;Arni-Islisberg
+156;6822;Arogno
+157;1986;Arolla
+158;7050;Arosa
+159;6939;Arosio
+160;1462;Arrissoules
+161;6415;Arth
+162;1884;Arveyes
+163;6543;Arvigo
+164;1273;Arzier
+165;6864;Arzo
+166;7245;Ascharina
+167;6612;Ascona
+168;5025;Asp
+169;1042;Assens
+170;6999;Astano
+171;2954;Asuel
+172;1285;Athenaz (Avusy)
+173;1616;Attalens
+174;5056;Attelwil
+175;6468;Attinghausen
+176;4536;Attiswil
+177;9434;Au SG
+178;8376;Au TG
+179;8804;Au ZH
+180;1170;Aubonne
+181;1673;Auboranges
+182;5105;Auenstein
+183;6547;Augio
+184;4302;Augst BL
+185;1484;Aumont
+186;6611;Auressio
+187;6671;Aurigeno
+188;8331;Auslikon
+189;3938;Ausserberg
+190;3995;Ausserbinn
+191;7444;Ausserferrera
+192;4944;Auswil
+193;1782;Autafond
+194;1569;Autavaux
+195;1742;Autigny
+196;2012;Auvernier
+197;5644;Auw
+198;6670;Avegno
+199;1976;Aven
+200;1580;Avenches
+201;1754;Avry-Centre FR
+202;1644;Avry-devant-Pont
+203;1754;Avry-sur-Matran
+204;1237;Avully
+205;3855;Axalp
+206;1966;Ayent
+207;3961;Ayer
+208;9478;Azmoos
+209;6340;Baar
+210;6341;Baar
+211;6342;Baar
+212;1994;Baar (Nendaz)
+213;6340;Baar 1
+214;6349;Baar Kurfürst AG
+215;8806;Bäch SZ
+216;8184;Bachenbülach
+217;9128;Bächli (Hemberg)
+218;8164;Bachs
+219;6213;Bad Knutwil
+220;7310;Bad Ragaz
+221;5400;Baden
+222;5401;Baden
+223;5402;Baden
+224;5403;Baden
+225;5404;Baden
+226;5405;Baden
+227;5406;Baden
+228;5400;Baden 1
+229;6283;Baldegg
+230;8439;Baldingen
+231;7317;Balen-Gassaura
+232;6828;Balerna
+233;9436;Balgach
+234;1338;Ballaigues
+235;1144;Ballens
+236;3304;Ballmoos
+237;6275;Ballwil
+238;4525;Balm b. Günsberg
+239;3254;Balm b. Messen
+240;4710;Balsthal
+241;8362;Balterswil
+242;3937;Baltschieder
+243;9496;Balzers
+244;6981;Banco
+245;3256;Bangerten b. Dieterswil
+246;4913;Bannwil
+247;3552;Bärau
+248;6917;Barbengo
+249;6917;Barbengo Paese
+250;1783;Barberêche
+251;1882;Barboleusaz
+252;8344;Bäretswil
+253;3282;Bargen BE
+254;8233;Bargen SH
+255;3323;Bäriswil BE
+256;5017;Barmelweid
+257;4252;Bärschwil
+258;4252;Bärschwil Dorf
+259;8241;Barzheim
+260;8254;Basadingen
+261;4000;Basel
+262;4001;Basel
+263;4002;Basel
+264;4003;Basel
+265;4004;Basel
+266;4005;Basel
+267;4006;Basel
+268;4007;Basel
+269;4008;Basel
+270;4009;Basel
+271;4010;Basel
+272;4011;Basel
+273;4012;Basel
+274;4013;Basel
+275;4015;Basel
+276;4016;Basel
+277;4017;Basel
+278;4018;Basel
+279;4019;Basel
+280;4020;Basel
+281;4021;Basel
+282;4023;Basel
+283;4024;Basel
+284;4025;Basel
+285;4027;Basel
+286;4028;Basel
+287;4030;Basel
+288;4031;Basel
+289;4032;Basel
+290;4051;Basel
+291;4052;Basel
+292;4053;Basel
+293;4054;Basel
+294;4055;Basel
+295;4056;Basel
+296;4057;Basel
+297;4058;Basel
+298;4059;Basel
+299;4091;Basel
+300;4000;Basel 2 Briefausgabe
+301;4005;Basel 5 Ausgabe
+302;4002;Basel KPD
+303;4039;Basel KPD F
+304;4040;Basel Postcheckamt
+305;4002;Basel TD
+306;4040;Basel Verarbeitungszentru
+307;2854;Bassecourt
+308;1996;Basse-Nendaz
+309;8303;Bassersdorf
+310;1269;Bassins
+311;3315;Bätterkinden
+312;4112;Bättwil
+313;4112;Bättwil-Flüh
+314;6466;Bauen
+315;1446;Baulmes
+316;8494;Bauma
+317;1372;Bavois
+318;9602;Bazenheid
+319;3803;Beatenberg
+320;6375;Beckenried
+321;6930;Bedano
+322;6981;Bedigliora
+323;6781;Bedretto
+324;8228;Beggingen
+325;1268;Begnins
+326;5637;Beinwil (Freiamt)
+327;5712;Beinwil am See
+328;4229;Beinwil SO
+329;3914;Belalp
+330;1782;Belfaux
+331;4512;Bellach
+332;2713;Bellelay
+333;1585;Bellerive VD
+334;1293;Bellevue
+335;5454;Bellikon
+336;6500;Bellinzona
+337;6501;Bellinzona
+338;6503;Bellinzona
+339;6506;Bellinzona
+340;6500;Bellinzona 1 Dist Lettere
+341;6500;Bellinzona 2
+342;6500;Bellinzona 4
+343;6500;Bellinzona 5
+344;6500;Bellinzona centro servizi
+345;6500;Bellinzona DCP
+346;6501;Bellinzona DT
+347;2564;Bellmund
+348;3997;Bellwald
+349;1092;Belmont-sur-Lausanne
+350;1432;Belmont-sur-Yverdon
+351;3123;Belp
+352;3124;Belpberg
+353;2744;Belprahon
+354;8121;Benglen
+355;8717;Benken SG
+356;8463;Benken ZH
+357;8836;Bennau
+358;4431;Bennwil
+359;5636;Benzenschwil
+360;1038;Bercher
+361;8415;Berg am Irchel
+362;9305;Berg SG
+363;8572;Berg TG
+364;8962;Bergdietikon
+365;7482;Bergün/Bravuogn
+366;8965;Berikon
+367;8965;Berikon 1
+368;8965;Berikon 2 Dorf
+369;8222;Beringen
+370;3376;Berken
+371;1680;Berlens
+372;8267;Berlingen
+373;3000;Bern
+374;3001;Bern
+375;3003;Bern
+376;3004;Bern
+377;3005;Bern
+378;3006;Bern
+379;3007;Bern
+380;3008;Bern
+381;3010;Bern
+382;3011;Bern
+383;3012;Bern
+384;3013;Bern
+385;3014;Bern
+386;3015;Bern
+387;3018;Bern
+388;3019;Bern
+389;3020;Bern
+390;3024;Bern
+391;3027;Bern
+392;3030;Bern
+393;3000;Bern 1 Briefausgabe
+394;3000;Bern 11
+395;3000;Bern 13
+396;3000;Bern 14
+397;3000;Bern 15
+398;3000;Bern 16
+399;3000;Bern 17
+400;3000;Bern 2
+401;3000;Bern 21
+402;3000;Bern 22
+403;3000;Bern 23
+404;3000;Bern 25
+405;3000;Bern 26
+406;3000;Bern 29
+407;3003;Bern 3 Nationalrat
+408;3003;Bern 3 Ständerat
+409;3030;Bern 30
+410;3000;Bern 31
+411;3000;Bern 32
+412;3000;Bern 5
+413;3000;Bern 6
+414;3000;Bern 7
+415;3000;Bern 8
+416;3000;Bern 9
+417;3029;Bern Informatikdienste PT
+418;3030;Bern KPD
+419;3000;Bern Radio Schweiz
+420;3002;Bern RZC I Betrieb
+421;3030;Bern TD
+422;3040;Bern Verarbeitungszentrum
+423;9442;Berneck
+424;1233;Bernex
+425;9304;Bernhardzell
+426;1149;Berolle
+427;6215;Beromünster
+428;8892;Berschis
+429;8614;Bertschikon (Gossau ZH)
+430;8544;Bertschikon b. Attikon
+431;6611;Berzona
+432;6863;Besazio
+433;5627;Besenbüren
+434;1609;Besencens
+435;8777;Betschwanden
+436;3991;Betten
+437;3366;Bettenhausen
+438;1041;Bettens
+439;4126;Bettingen
+440;2544;Bettlach
+441;3992;Bettmeralp
+442;9553;Bettwiesen
+443;5618;Bettwil
+444;2935;Beurnevésin
+445;1994;Beuson
+446;2022;Bevaix
+447;7502;Bever
+448;2735;Bévilard
+449;1880;Bex
+450;6710;Biasca
+451;6711;Biasca Sortite
+452;6710;Biasca Stazione
+453;2326;Biaufond
+454;4562;Biberist
+455;8242;Bibern SH
+456;4578;Bibern SO
+457;5023;Biberstein
+458;8363;Bichelsee
+459;9248;Bichwil
+460;6958;Bidogno
+461;2500;Biel 1 Ausgabe
+462;2501;Biel TD
+463;3981;Biel VS
+464;2500;Biel/Bienne
+465;2501;Biel/Bienne
+466;2502;Biel/Bienne
+467;2503;Biel/Bienne
+468;2504;Biel/Bienne
+469;2505;Biel/Bienne
+470;2500;Biel/Bienne 1
+471;2500;Biel/Bienne 3
+472;2500;Biel/Bienne 4
+473;2500;Biel/Bienne 5
+474;2500;Biel/Bienne 6
+475;2500;Biel/Bienne 7
+476;2500;Biel/Bienne 8
+477;2500;Biel/Bienne 9
+478;4105;Biel-Benken BL
+479;3419;Biembach im Emmental
+480;1145;Bière
+481;4585;Biezwil
+482;3513;Bigenthal
+483;3507;Biglen
+484;6676;Bignasco
+485;6954;Bigorio
+486;1681;Billens
+487;8865;Bilten
+488;3996;Binn
+489;4102;Binningen
+490;4102;Binningen 1
+491;4102;Binningen 2
+492;8122;Binz
+493;6934;Bioggio
+494;6981;Biogno-Beride
+495;1046;Bioley-Magnoux
+496;1041;Bioley-Orjulaz
+497;1670;Bionnens
+498;3901;Birgisch
+499;8903;Birmensdorf ZH
+500;5413;Birmenstorf AG
+501;6804;Bironico
+502;5242;Birr
+503;5244;Birrhard
+504;5242;Birr-Lupfig
+505;5708;Birrwil
+506;4127;Birsfelden
+507;8585;Birwinken
+508;9220;Bischofszell
+509;9220;Bischofszell Nord
+510;6436;Bisisthal
+511;8514;Bissegg
+512;6816;Bissone
+513;3983;Bister
+514;3982;Bitsch
+515;7457;Bivio
+516;3771;Blankenburg
+517;3919;Blatten (Lötschen)
+518;6102;Blatten (Malters)
+519;3914;Blatten b. Naters
+520;4223;Blauen
+521;3717;Blausee-Mitholz
+522;3368;Bleienbach
+523;3518;Bleiken b. Oberdiessbach
+524;1675;Blessens
+525;3981;Blitzingen
+526;1807;Blonay
+527;3638;Blumenstein
+528;8439;Böbikon
+529;4461;Böckten
+530;3715;Boden (Adelboden)
+531;6743;Bodio TI
+532;2856;Boécourt
+533;1353;Bofflens
+534;1279;Bogis-Bossey
+535;6951;Bogno
+536;2014;Bôle
+537;4556;Bolken
+538;3067;Boll
+539;3065;Bolligen
+540;3065;Bolligen Dorf
+541;3065;Bolligen Station
+542;8715;Bollingen
+543;1474;Bollion
+544;3366;Bollodingen
+545;3766;Boltigen
+546;6981;Bombinasco
+547;7402;Bonaduz
+548;8554;Bonau
+549;2926;Boncourt
+550;2944;Bonfol
+551;3806;Bönigen b. Interlaken
+552;4618;Boningen
+553;5706;Boniswil
+554;1729;Bonnefontaine
+555;8906;Bonstetten
+556;1427;Bonvillars
+557;8113;Boppelsen
+558;1277;Borex
+559;6658;Borgnone
+560;7604;Borgonovo
+561;6935;Bosco Luganese
+562;6685;Bosco/Gurin
+563;3178;Bösingen
+564;1615;Bossonnens
+565;5623;Boswil
+566;1041;Bottens
+567;4814;Bottenwil
+568;1652;Botterens
+569;8598;Bottighofen
+570;4103;Bottmingen
+571;5315;Böttstein
+572;2043;Boudevilliers
+573;2017;Boudry
+574;1172;Bougy-Villars
+575;1041;Boulens
+576;1698;Bouloz
+577;1946;Bourg-St-Pierre
+578;1722;Bourguillon
+579;1035;Bournens
+580;2803;Bourrignon
+581;1034;Boussens
+582;1897;Bouveret
+583;2113;Boveresse
+584;1932;Bovernier
+585;3533;Bowil
+586;5254;Bözen
+587;6544;Braggio
+588;7527;Brail
+589;6167;Bramboden
+590;1967;Bramois
+591;3941;Bratsch
+592;9502;Braunau
+593;8784;Braunwald
+594;6979;Brè sopra Lugano
+595;6932;Breganzona
+596;7165;Breil/Brigels
+597;4226;Breitenbach
+598;1121;Bremblens
+599;5620;Bremgarten AG
+600;3047;Bremgarten b. Bern
+601;1683;Brenles
+602;6937;Breno
+603;1817;Brent
+604;3526;Brenzikofen
+605;2904;Bressaucourt
+606;1041;Bretigny-sur-Morrens
+607;1329;Bretonnières
+608;4207;Bretzwil
+609;3855;Brienz BE
+610;7084;Brienz GR
+611;3856;Brienzwiler
+612;3900;Brig
+613;3901;Brig Ausgänge
+614;3941;Brig Ausgänge
+615;3981;Brig Ausgänge
+616;3900;Brig Briefausgabe
+617;3900;Brig Reg Postautozentrum
+618;3900;Brigerbad
+619;6634;Brione (Verzasca)
+620;6645;Brione sopra Minusio
+621;4225;Brislach
+622;6614;Brissago
+623;6475;Bristen
+624;4805;Brittnau
+625;1636;Broc
+626;6693;Broglio
+627;9552;Bronschhofen
+628;6692;Brontallo
+629;2318;Brot-Dessus
+630;2318;Brot-Plamboz
+631;4101;Bruderholz
+632;5200;Brugg AG
+633;5201;Brugg AG
+634;5200;Brugg AG 1
+635;5200;Brugg AG 3
+636;2555;Brügg b. Biel
+637;4582;Brügglen
+638;9058;Brülisau
+639;5505;Brunegg
+640;6082;Brünig
+641;1719;Brünisried
+642;9125;Brunnadern
+643;6440;Brunnen
+644;3307;Brunnenthal
+645;6882;Brusata (Novazzano)
+646;6923;Brusino Arsizio
+647;7743;Brusio
+648;1934;Bruson
+649;2578;Brüttelen
+650;8311;Brütten
+651;8306;Brüttisellen
+652;6831;Bruzella
+653;4416;Bubendorf
+654;8608;Bubikon
+655;8414;Buch am Irchel
+656;8533;Buch b. Frauenfeld
+657;9563;Buch b. Märwil
+658;8263;Buch SH
+659;8586;Buchackern
+660;8454;Buchberg
+661;7223;Buchen im Prättigau
+662;1164;Buchillon
+663;6033;Buchrain
+664;5033;Buchs AG
+665;6211;Buchs LU
+666;9470;Buchs SG
+667;9470;Buchs SG 1
+668;9470;Buchs SG 2
+669;9470;Buchs SG 3
+670;8107;Buchs ZH
+671;3215;Büchslen
+672;4446;Buckten
+673;3263;Büetigen
+674;3274;Bühl b. Aarberg
+675;9055;Bühler
+676;9215;Buhwil
+677;2925;Buix
+678;8180;Bülach
+679;1630;Bulle
+680;1631;Bulle centre de traitemen
+681;1453;Bullet
+682;6197;Bumbach
+683;5624;Bünzen
+684;6374;Buochs
+685;6343;Buonas
+686;3935;Bürchen
+687;2915;Bure
+688;3294;Büren an der Aare
+689;6382;Büren NW
+690;4413;Büren SO
+691;3313;Büren zum Hof
+692;5736;Burg AG
+693;4117;Burg im Leimental
+694;4556;Burgäschi
+695;3400;Burgdorf
+696;3401;Burgdorf
+697;3402;Burgdorf
+698;3400;Burgdorf 1
+699;3400;Burgdorf Ausgabe
+700;6363;Bürgenstock
+701;8805;Burghalden
+702;3134;Burgistein Dorf
+703;3134;Burgistein Station
+704;3816;Burglauenen
+705;6077;Bürglen OW
+706;8575;Bürglen TG
+707;6463;Bürglen UR
+708;6233;Büron
+709;1195;Bursinel
+710;1183;Bursins
+711;1261;Burtigny
+712;6542;Buseno
+713;8238;Büsingen (D)
+714;4227;Büsserach
+715;1030;Bussigny-près-Lausanne
+716;1608;Bussigny-sur-Oron
+717;9565;Bussnang
+718;3292;Busswil b. Büren
+719;4917;Busswil b. Melchnau
+720;9572;Busswil TG
+721;1541;Bussy FR
+722;1136;Bussy-Chardonney
+723;1514;Bussy-sur-Moudon
+724;9606;Bütschwil
+725;8236;Büttenhardt
+726;2115;Buttes
+727;5619;Büttikon AG
+728;8863;Buttikon SZ
+729;6018;Buttisholz
+730;5632;Buttwil
+731;4922;Bützberg
+732;4463;Buus
+733;6831;Cabbio
+734;6558;Cabbiolo
+735;6658;Cadanza
+736;6936;Cademario
+737;6936;Cademario Casa di cura
+738;6814;Cadempino
+739;6593;Cadenazzo
+740;6965;Cadro
+741;6955;Cagiallo
+742;7027;Calfreisen
+743;6746;Calonico
+744;6760;Calpiogna
+745;6557;Cama
+746;6659;Camedo
+747;6803;Camignolo
+748;7187;Camischolas
+749;6528;Camorino
+750;7748;Campascio
+751;6760;Campello
+752;6718;Camperio
+753;6911;Campione d'Italia
+754;6711;Campo (Blenio)
+755;6684;Campo (Vallemaggia)
+756;7744;Campocologno
+757;7446;Campsut-Cröt
+758;7113;Camuns
+759;6831;Caneggio
+760;6952;Canobbio
+761;6825;Capolago
+762;6913;Carabbia
+763;6919;Carabietta
+764;6584;Carena
+765;6760;Cari
+766;6945;Carnago
+767;6914;Carona
+768;1227;Carouge GE
+769;7122;Carrera
+770;1084;Carrouge VD
+771;1236;Cartigny
+772;7602;Casaccia
+773;6851;Casima
+774;6987;Caslano
+775;6900;Cassarate
+776;6990;Cassina d'Agno
+777;6976;Castagnola
+778;6540;Castaneda
+779;7608;Castasegna
+780;6874;Castel S. Pietro
+781;6981;Castelrotto
+782;7027;Castiel
+783;6532;Castione
+784;7126;Castrisch
+785;6711;Castro
+786;6546;Cauco
+787;1824;Caux
+788;6749;Cavagnago
+789;7182;Cavardiras
+790;6690;Cavergno
+791;6578;Caviano
+792;6654;Cavigliano
+793;7408;Cazis
+794;7505;Celerina/Schlarigna
+795;1298;Céligny
+796;6683;Cerentino
+797;1654;Cerniat FR
+798;1556;Cerniaz VD
+799;2053;Cernier
+800;6951;Certara
+801;6675;Cevio
+802;1474;Châbles FR
+803;1589;Chabrey
+804;1816;Chailly-Montreux
+805;3966;Chalais
+806;6330;Cham
+807;1292;Chambésy
+808;1436;Chamblon
+809;2202;Chambrelien
+810;1832;Chamby
+811;1955;Chamoson
+812;1424;Champagne
+813;2149;Champ-du-Moulin
+814;1874;Champéry
+815;1938;Champex
+816;7512;Champfèr
+817;1588;Champmartin
+818;2735;Champoz
+819;1487;Champtauroz
+820;1443;Champvent
+821;1284;Chancy
+822;3961;Chandolin
+823;1773;Chandon
+824;1409;Chanéaz
+825;1534;Chapelle (Broye)
+826;1608;Chapelle (Glâne)
+827;1063;Chapelle-sur-Moudon
+828;1803;Chardonne
+829;1637;Charmey (Gruyère)
+830;2947;Charmoille
+831;1906;Charrat
+832;1837;Château-d'Oex
+833;1950;Châteauneuf (Sion)
+834;1219;Châtelaine
+835;1219;Châtelaine Cases
+836;2715;Châtelat
+837;2715;Châtelat-Monible
+838;1618;Châtel-St-Denis
+839;1653;Châtel-sur-Montsalvens
+840;1502;Châtillens
+841;1473;Châtillon FR
+842;2843;Châtillon JU
+843;1553;Châtonnaye
+844;2067;Chaumont
+845;1279;Chavannes-de-Bogis
+846;1279;Chavannes-de-Bogis OLS
+847;1290;Chavannes-des-Bois
+848;1464;Chavannes-le-Chêne
+849;1676;Chavannes-les-Forts
+850;1309;Chavannes-le-Veyron
+851;1022;Chavannes-près-Renens
+852;1693;Chavannes-sous-Orsonnens
+853;1512;Chavannes-sur-Moudon
+854;1373;Chavornay
+855;1529;Cheiry
+856;1927;Chemin
+857;1603;Chenaux
+858;1224;Chêne-Bougeries
+859;1225;Chêne-Bourg
+860;1744;Chénens
+861;1464;Chêne-Pâquier
+862;3971;Chermignon
+863;3971;Chermignon-d'en-Bas
+864;1822;Chernex
+865;1683;Chesalles-sur-Moudon
+866;1608;Chesalles-sur-Oron
+867;1400;Cheseaux-Noréaz
+868;1033;Cheseaux-sur-Lausanne
+869;1275;Chéserex
+870;1885;Chesières
+871;1720;Chésopelloz
+872;1846;Chessel
+873;2906;Chevenez
+874;1316;Chevilly
+875;1545;Chevroux
+876;1605;Chexbres
+877;1468;Cheyres
+878;2054;Chézard
+879;2025;Chez-le-Bart
+880;6830;Chiasso
+881;6830;Chiasso 1
+882;6830;Chiasso 3
+883;6831;Chiasso Sortite
+884;6764;Chiggiogna
+885;1134;Chigny
+886;3965;Chippis
+887;6747;Chironico
+888;1871;Choëx
+889;2764;Choindez
+890;1244;Choulex
+891;7000;Chur
+892;7001;Chur
+893;7002;Chur
+894;7003;Chur
+895;7004;Chur
+896;7005;Chur
+897;7006;Chur
+898;7007;Chur
+899;7000;Chur 1 Briefausgabe
+900;7000;Chur KPD
+901;7002;Chur TD
+902;7075;Churwalden
+903;6951;Cimadera
+904;6684;Cimalmotto
+905;6992;Cimo
+906;7526;Cinuos-chel
+907;1815;Clarens
+908;1127;Clarmont
+909;6702;Claro
+910;1595;Clavaleyres
+911;7442;Clugin
+912;2932;Coeuve
+913;2207;Coffrane
+914;6671;Coglio
+915;1267;Coinsins
+916;1216;Cointrin
+917;6877;Coldrerio
+918;6951;Colla
+919;1239;Collex
+920;1868;Collombey
+921;1245;Collonge-Bellerive
+922;1903;Collonges
+923;1223;Cologny
+924;2013;Colombier NE
+925;1114;Colombier VD
+926;6949;Comano
+927;1535;Combremont-le-Grand
+928;1536;Combremont-le-Petit
+929;1291;Commugny
+930;6611;Comologno
+931;1231;Conches
+932;1426;Concise
+933;1232;Confignon
+934;1587;Constantine
+935;7241;Conters im Prättigau
+936;1964;Conthey
+937;6594;Contone
+938;6646;Contra
+939;1296;Coppet
+940;2826;Corban
+941;1856;Corbeyrier
+942;1647;Corbières
+943;2747;Corcelles BE
+944;2035;Corcelles NE
+945;1082;Corcelles-le-Jorat
+946;1426;Corcelles-près-Concise
+947;1562;Corcelles-près-Payerne
+948;1374;Corcelles-sur-Chavornay
+949;1792;Cordast
+950;2606;Corgémont
+951;3960;Corin-de-la-Crête
+952;6631;Corippo
+953;1754;Corjolens
+954;1783;Cormagens
+955;1721;Cormérod
+956;1720;Corminboeuf
+957;2036;Cormondrèche
+958;2612;Cormoret
+959;2087;Cornaux NE
+960;2952;Cornol
+961;1727;Corpataux
+962;1064;Corrençon
+963;1410;Correvon
+964;1721;Corsalettes
+965;1802;Corseaux
+966;1747;Corserey
+967;1246;Corsier GE
+968;1804;Corsier-sur-Vevey
+969;2016;Cortaillod
+970;2607;Cortébert
+971;6851;Corteglia
+972;6951;Corticiasca
+973;6711;Corzoneso
+974;1304;Cossonay-Ville
+975;1741;Cottens FR
+976;1116;Cottens VD
+977;2823;Courcelon
+978;2825;Courchapoix
+979;2922;Courchavon
+980;2853;Courfaivre
+981;2892;Courgenay
+982;1796;Courgevaux
+983;1795;Courlevon
+984;1784;Cournillens
+985;2764;Courrendlin
+986;2822;Courroux
+987;2738;Court
+988;1791;Courtaman
+989;2905;Courtedoux
+990;2608;Courtelary
+991;2923;Courtemaîche
+992;1784;Courtepin
+993;2852;Courtételle
+994;1721;Courtion
+995;1774;Cousset
+996;2108;Couvet
+997;6951;Cozzo
+998;6611;Crana
+999;1299;Crans-près-Céligny
+1000;3963;Crans-sur-Sierre
+1001;1263;Crassier
+1002;1526;Cremin
+1003;2746;Crémines
+1004;6705;Cresciano
+1005;1785;Cressier FR
+1006;2088;Cressier NE
+1007;7447;Cresta (Avers)
+1008;1653;Crésuz
+1009;1653;Crésuz-Châtel-Montsalvens
+1010;1023;Crissier
+1011;6942;Crocifisso (Savosa)
+1012;1406;Cronay
+1013;1322;Croy
+1014;7554;Crusch
+1015;1309;Cuarnens
+1016;1404;Cuarny
+1017;1588;Cudrefin
+1018;6516;Cugnasco
+1019;1482;Cugy FR
+1020;1053;Cugy VD
+1021;1096;Cully
+1022;7142;Cumbel
+1023;7176;Cumpadials
+1024;7452;Cunter
+1025;7184;Curaglia
+1026;6963;Cureggia
+1027;6944;Cureglia
+1028;6985;Curio
+1029;1521;Curtilles
+1030;6951;Curtina
+1031;8447;Dachsen
+1032;8471;Dägerlen
+1033;6252;Dagmersellen
+1034;1306;Daillens
+1035;1976;Daillon
+1036;6126;Daiwil
+1037;7424;Dalin
+1038;6383;Dallenwil
+1039;8108;Dällikon
+1040;6774;Dalpe
+1041;2933;Damphreux
+1042;2933;Damphreux-Lugnez
+1043;2914;Damvant
+1044;6717;Dangio-Torre
+1045;5010;Däniken Postzentrum
+1046;4658;Däniken SO
+1047;8114;Dänikon ZH
+1048;7163;Danis
+1049;1282;Dardagny
+1050;7164;Dardin
+1051;3707;Därligen
+1052;3763;Därstetten
+1053;8421;Dättlikon
+1054;5405;Dättwil AG
+1055;6964;Davesco-Soragno
+1056;7270;Davos 2
+1057;7270;Davos 4
+1058;7272;Davos Clavadel
+1059;7260;Davos Dorf
+1060;7276;Davos Frauenkirch
+1061;7277;Davos Glaris
+1062;7278;Davos Monstein
+1063;7270;Davos Platz
+1064;7270;Davos Platz 1
+1065;7265;Davos Wolfgang
+1066;7145;Degen
+1067;9113;Degersheim
+1068;3053;Deisswil b. Münchenbuchse
+1069;4707;Deitingen
+1070;2800;Delémont
+1071;2800;Delémont 1
+1072;2800;Delémont 1 Distribution
+1073;2800;Delémont 2
+1074;1567;Delley
+1075;1415;Démoret
+1076;1135;Denens
+1077;1516;Denezy
+1078;1026;Denges
+1079;5026;Densbüren
+1080;4552;Derendingen
+1081;3036;Detligen
+1082;8506;Dettighofen b. Lanzenneun
+1083;2802;Develier
+1084;9115;Dicken
+1085;4457;Diegten
+1086;8157;Dielsdorf
+1087;3053;Diemerswil
+1088;3754;Diemtigen
+1089;4442;Diepflingen
+1090;9444;Diepoldsau
+1091;6036;Dierikon
+1092;8777;Diesbach GL
+1093;3264;Diessbach b. Büren
+1094;2517;Diesse
+1095;8253;Diessenhofen
+1096;3256;Dieterswil
+1097;9615;Dietfurt
+1098;8953;Dietikon
+1099;8953;Dietikon 1
+1100;8953;Dietikon 2
+1101;8953;Dietikon 3
+1102;8305;Dietlikon
+1103;6042;Dietwil
+1104;8474;Dinhard
+1105;6967;Dino
+1106;5606;Dintikon
+1107;7180;Disentis/Mustér
+1108;4243;Dittingen
+1109;1304;Dizy
+1110;7013;Domat/Ems
+1111;2056;Dombresson
+1112;1564;Domdidier
+1113;1041;Dommartin
+1114;1563;Dompierre FR
+1115;1557;Dompierre VD
+1116;7433;Donath
+1117;1582;Donatyre
+1118;6715;Dongio
+1119;1407;Donneloye
+1120;8583;Donzhausen
+1121;6112;Doppleschwand
+1122;1905;Dorénaz
+1123;8458;Dorf
+1124;8239;Dörflingen
+1125;4143;Dornach
+1126;4143;Dornach 1
+1127;4143;Dornach 2
+1128;8566;Dotnacht
+1129;5605;Dottikon
+1130;5312;Döttingen
+1131;3293;Dotzigen
+1132;8580;Dozwil
+1133;9612;Dreien
+1134;8600;Dübendorf
+1135;8600;Dübendorf 1
+1136;8600;Dübendorf 2
+1137;3186;Düdingen
+1138;4202;Duggingen
+1139;1266;Duillier
+1140;4657;Dulliken
+1141;1195;Dully
+1142;1195;Dully-Bursinel
+1143;8635;Dürnten
+1144;5724;Dürrenäsch
+1145;3465;Dürrenroth
+1146;8335;Dürstelen
+1147;8374;Dussnang
+1148;7112;Duvin
+1149;6245;Ebersecken
+1150;9122;Ebersol
+1151;8925;Ebertswil
+1152;6030;Ebikon
+1153;8123;Ebmatingen
+1154;9642;Ebnat-Kappel
+1155;6163;Ebnet
+1156;1040;Echallens
+1157;1041;Echallens Sorties
+1158;1026;Echandens
+1159;1026;Echandens-Denges
+1160;1646;Echarlens
+1161;1112;Echichens
+1162;1376;Eclagnens
+1163;1312;Eclépens
+1164;1612;Ecoteaux
+1165;1503;Ecublens FR
+1166;1024;Ecublens VD
+1167;1730;Ecuvillens
+1168;2813;Ederswiler
+1169;6313;Edlibach
+1170;5253;Effingen
+1171;8307;Effretikon
+1172;4622;Egerkingen
+1173;9231;Egg (Flawil)
+1174;8132;Egg b. Zürich
+1175;8847;Egg SZ
+1176;5445;Eggenwil
+1177;3939;Eggerberg
+1178;9034;Eggersriet
+1179;8585;Eggethof
+1180;3537;Eggiwil
+1181;8193;Eglisau
+1182;5704;Egliswil
+1183;9322;Egnach
+1184;6243;Egolzwil
+1185;6205;Eich
+1186;9453;Eichberg
+1187;6013;Eigenthal
+1188;3801;Eigergletscher
+1189;5268;Eiken
+1190;3646;Einigen
+1191;8840;Einsiedeln
+1192;3943;Eischoll
+1193;3909;Eisten
+1194;5255;Elfingen
+1195;8353;Elgg
+1196;8566;Ellighausen
+1197;8464;Ellikon am Rhein
+1198;8548;Ellikon an der Thur
+1199;8767;Elm
+1200;3926;Embd
+1201;8424;Embrach
+1202;8423;Embrach-Embraport
+1203;3711;Emdthal
+1204;6032;Emmen
+1205;6020;Emmenbrücke
+1206;6020;Emmenbrücke 1
+1207;6020;Emmenbrücke 2
+1208;6020;Emmenbrücke 3
+1209;6020;Emmenbrücke SB
+1210;3543;Emmenmatt
+1211;6376;Emmetten
+1212;5304;Endingen
+1213;6390;Engelberg
+1214;9032;Engelburg
+1215;2073;Enges
+1216;3077;Enggistein
+1217;8765;Engi
+1218;8586;Engishofen
+1219;3086;Englisberg
+1220;2063;Engollon
+1221;8556;Engwang
+1222;8563;Engwilen
+1223;8755;Ennenda
+1224;8586;Ennetaach
+1225;5400;Ennetbaden
+1226;9651;Ennetbühl
+1227;6373;Ennetbürgen
+1228;6372;Ennetmoos
+1229;1667;Enney
+1230;6162;Entlebuch
+1231;6160;Entlebuch Ackermann Versa
+1232;1664;Epagny
+1233;1066;Epalinges
+1234;1417;Epautheyres
+1235;2885;Epauvillers
+1236;1731;Ependes FR
+1237;1434;Ependes VD
+1238;1098;Epesses
+1239;2886;Epiquerez
+1240;5012;Eppenberg
+1241;5012;Eppenberg-Wöschnau
+1242;3272;Epsach
+1243;4458;Eptingen
+1244;1976;Erde
+1245;3947;Ergisch
+1246;4952;Eriswil
+1247;3619;Eriz
+1248;3235;Erlach
+1249;8586;Erlen
+1250;3762;Erlenbach im Simmental
+1251;8703;Erlenbach ZH
+1252;8272;Ermatingen
+1253;6294;Ermensee
+1254;8734;Ermenswil
+1255;3995;Ernen
+1256;8725;Ernetschwil
+1257;3941;Erschmatt
+1258;4228;Erschwil
+1259;3423;Ersigen
+1260;6472;Erstfeld
+1261;9492;Eschen
+1262;6274;Eschenbach LU
+1263;8733;Eschenbach SG
+1264;8264;Eschenz
+1265;2743;Eschert
+1266;8554;Eschikofen
+1267;8360;Eschlikon TG
+1268;6182;Escholzmatt
+1269;1670;Esmonts
+1270;1724;Essert FR
+1271;1078;Essertes
+1272;1186;Essertines-sur-Rolle
+1273;1417;Essertines-sur-Yverdon
+1274;1435;Essert-Pittet
+1275;1443;Essert-sous-Champvent
+1276;8133;Esslingen
+1277;1665;Estavannens
+1278;1743;Estavayer-le-Gibloux
+1279;1470;Estavayer-le-Lac
+1280;1681;Estévenens
+1281;1037;Etagnières
+1282;1163;Etoy
+1283;8620;Ettenhausen b. Wetzikon
+1284;8356;Ettenhausen TG
+1285;4107;Ettingen
+1286;6218;Ettiswil
+1287;3306;Etzelkofen
+1288;4343;Etzgen
+1289;4554;Etziken
+1290;8256;Etzwilen
+1291;1982;Euseigne
+1292;8844;Euthal
+1293;2533;Evilard
+1294;1902;Evionnaz
+1295;1983;Evolène
+1296;3931;Eyholz
+1297;1262;Eysins
+1298;3617;Fahrni b. Thun
+1299;5615;Fahrwangen
+1300;8951;Fahrweid
+1301;2916;Fahy
+1302;6760;Faido
+1303;6762;Faido Stazione
+1304;7226;Fajauna
+1305;7153;Falera
+1306;8117;Fällanden
+1307;8639;Faltigberg
+1308;7215;Fanas
+1309;3557;Fankhaus (Trub)
+1310;1595;Faoug
+1311;7433;Fardün
+1312;4539;Farnern
+1313;1726;Farvagny-le-Grand
+1314;1726;Farvagny-le-Petit
+1315;3705;Faulensee
+1316;1173;Féchy
+1317;8320;Fehraltorf
+1318;4232;Fehren
+1319;8552;Felben-Wellhausen
+1320;8714;Feldbach
+1321;4532;Feldbrunnen
+1322;7404;Feldis/Veulden
+1323;8706;Feldmeilen
+1324;6183;Feldmoos
+1325;7012;Felsberg
+1326;5316;Felsenau AG
+1327;1880;Fenalet-sur-Bex
+1328;1809;Fenil-sur-Corsier
+1329;3916;Ferden
+1330;1076;Ferlens VD
+1331;1724;Ferpicloz
+1332;1313;Ferreyres
+1333;3941;Feschel
+1334;3941;Feschel-Guttet
+1335;6938;Fescoggia
+1336;1532;Fétigny
+1337;8245;Feuerthalen
+1338;8835;Feusisberg
+1339;3784;Feutersoey
+1340;7514;Fex
+1341;1044;Fey
+1342;1996;Fey (Nendaz)
+1343;1609;Fiaugères
+1344;7019;Fidaz
+1345;7235;Fideris
+1346;7235;Fideris Station
+1347;3984;Fiesch
+1348;3984;Fieschertal
+1349;1420;Fiez
+1350;6918;Figino
+1351;3983;Filet
+1352;7477;Filisur
+1353;8876;Filzbach
+1354;1925;Finhaut
+1355;2577;Finsterhennen
+1356;6311;Finstersee
+1357;6165;Finsterwald b. Entlebuch
+1358;1948;Fionnay
+1359;6145;Fischbach LU
+1360;5525;Fischbach-Göslikon
+1361;8497;Fischenthal
+1362;8376;Fischingen
+1363;8435;Fisibach
+1364;5442;Fislisbach
+1365;8416;Flaach
+1366;3175;Flamatt
+1367;3978;Flanthey
+1368;7306;Fläsch
+1369;9230;Flawil
+1370;9230;Flawil 1
+1371;9230;Flawil 2 Botsberg
+1372;1839;Flendruz
+1373;7426;Flerden
+1374;2114;Fleurier
+1375;7017;Flims Dorf
+1376;7018;Flims Waldhaus
+1377;7137;Flond
+1378;6454;Flüelen
+1379;6073;Flüeli-Ranft
+1380;4112;Flüh
+1381;6173;Flühli LU
+1382;4534;Flumenthal
+1383;8890;Flums
+1384;8893;Flums Hochwiese
+1385;8896;Flumserberg Bergheim
+1386;8895;Flumserberg Portels
+1387;8894;Flumserberg Saxli
+1388;8898;Flumserberg Tannenbodenal
+1389;8897;Flumserberg Tannenheim
+1390;8247;Flurlingen
+1391;1473;Font
+1392;2052;Fontainemelon
+1393;2046;Fontaines NE
+1394;1421;Fontaines-sur-Grandson
+1395;1423;Fontanezier
+1396;6110;Fontannen b. Wolhusen
+1397;2902;Fontenais
+1398;8127;Forch
+1399;1606;Forel (Lavaux)
+1400;1569;Forel FR
+1401;1526;Forel-sur-Lucens
+1402;2717;Fornet-Dessous
+1403;2718;Fornet-Dessus
+1404;3636;Forst b. Längenbühl
+1405;1297;Founex
+1406;1489;Franex
+1407;3284;Fräschels
+1408;6636;Frasco
+1409;9320;Frasnacht
+1410;1483;Frasses
+1411;3312;Fraubrunnen
+1412;8500;Frauenfeld
+1413;8501;Frauenfeld
+1414;8502;Frauenfeld
+1415;8503;Frauenfeld
+1416;8500;Frauenfeld 1
+1417;8500;Frauenfeld 1 Ausgabe
+1418;8500;Frauenfeld RPZ
+1419;3202;Frauenkappelen
+1420;2953;Fregiécourt
+1421;2953;Fregiécourt-Pleujouse
+1422;9306;Freidorf TG
+1423;8807;Freienbach
+1424;8427;Freienstein
+1425;5423;Freienwil
+1426;3510;Freimettigen
+1427;1880;Frenières-sur-Bex
+1428;4402;Frenkendorf
+1429;2027;Fresens
+1430;2027;Fresens-Montalchez
+1431;1700;Fribourg
+1432;1701;Fribourg
+1433;1702;Fribourg
+1434;1703;Fribourg
+1435;1704;Fribourg
+1436;1705;Fribourg
+1437;1706;Fribourg
+1438;1707;Fribourg
+1439;1708;Fribourg
+1440;1709;Fribourg
+1441;1700;Fribourg 1
+1442;1700;Fribourg 1 Distribution
+1443;1701;Fribourg DT
+1444;5262;Frick
+1445;3035;Frieswil
+1446;9504;Friltschen
+1447;2535;Frinvillier
+1448;1055;Froideville
+1449;9467;Frümsen
+1450;8559;Fruthwilen
+1451;3714;Frutigen
+1452;3714;Frutigen 1
+1453;3714;Frutigen 2
+1454;7551;Ftan
+1455;7533;Fuldera
+1456;4854;Fulenbach
+1457;4414;Füllinsdorf
+1458;4354;Full-Reuenthal
+1459;1926;Fully
+1460;6363;Fürigen
+1461;7232;Furna
+1462;7414;Fürstenau
+1463;7413;Fürstenaubruck
+1464;6696;Fusio
+1465;3901;Gabi (Simplon)
+1466;8214;Gächlingen
+1467;4584;Gächliwil
+1468;8547;Gachnang
+1469;7244;Gadenstätt
+1470;3863;Gadmen
+1471;9534;Gähwil
+1472;9056;Gais
+1473;9030;Gaiserwald
+1474;8854;Galgenen
+1475;5224;Gallenkirch
+1476;3285;Galmiz
+1477;2076;Gals
+1478;3945;Gampel
+1479;3236;Gampelen
+1480;9487;Gamprin-Bendern
+1481;9473;Gams
+1482;3900;Gamsen
+1483;6978;Gandria
+1484;4716;Gänsbrunnen
+1485;4346;Gansingen
+1486;9608;Ganterschwil
+1487;3144;Gasel
+1488;3924;Gasenried
+1489;8136;Gattikon
+1490;5412;Gebenstorf
+1491;6123;Geiss
+1492;6284;Gelfingen
+1493;3126;Gelterfingen
+1494;4460;Gelterkinden
+1495;5637;Geltwil
+1496;4145;Gempen
+1497;3215;Gempenach
+1498;6852;Genestrerio
+1499;1200;Genève
+1500;1201;Genève
+1501;1202;Genève
+1502;1203;Genève
+1503;1204;Genève
+1504;1205;Genève
+1505;1206;Genève
+1506;1207;Genève
+1507;1208;Genève
+1508;1209;Genève
+1509;1200;Genève 1
+1510;1211;Genève 1
+1511;1211;Genève 1 DAP
+1512;1211;Genève 10
+1513;1200;Genève 11
+1514;1211;Genève 11
+1515;1200;Genève 12
+1516;1211;Genève 12
+1517;1200;Genève 13
+1518;1211;Genève 13
+1519;1211;Genève 14
+1520;1215;Genève 15 Aéroport
+1521;1215;Genève 15 Aéroport Dépôt
+1522;1200;Genève 16
+1523;1211;Genève 16
+1524;1200;Genève 17
+1525;1211;Genève 17
+1526;1200;Genève 18
+1527;1211;Genève 18
+1528;1200;Genève 19
+1529;1211;Genève 19
+1530;1211;Genève 2
+1531;1200;Genève 2 Dist Lettres
+1532;1211;Genève 2 DT
+1533;1200;Genève 2 Transit
+1534;1200;Genève 20
+1535;1211;Genève 20
+1536;1200;Genève 21
+1537;1211;Genève 21
+1538;1211;Genève 22
+1539;1211;Genève 23
+1540;1200;Genève 24
+1541;1211;Genève 24
+1542;1200;Genève 25
+1543;1211;Genève 25
+1544;1200;Genève 26
+1545;1211;Genève 26
+1546;1211;Genève 27
+1547;1200;Genève 28
+1548;1211;Genève 28
+1549;1200;Genève 3
+1550;1211;Genève 3
+1551;1200;Genève 4
+1552;1211;Genève 4
+1553;1200;Genève 6
+1554;1211;Genève 6
+1555;1200;Genève 7
+1556;1211;Genève 7
+1557;1200;Genève 8
+1558;1211;Genève 8
+1559;1200;Genève 9
+1560;1211;Genève 9
+1561;1215;Genève ICC OLS
+1562;1289;Genève Services Spéciaux
+1563;1272;Genolier
+1564;1294;Genthod
+1565;6925;Gentilino
+1566;4563;Gerlafingen
+1567;8500;Gerlikon
+1568;8954;Geroldswil
+1569;6576;Gerra (Gambarogno)
+1570;6635;Gerra (Verzasca)
+1571;6442;Gersau
+1572;3115;Gerzensee
+1573;3981;Geschinen
+1574;6142;Gettnau
+1575;6232;Geuensee
+1576;6711;Ghirone
+1577;8498;Gibswil-Ried
+1578;4304;Giebenach
+1579;1429;Giez
+1580;1735;Giffers
+1581;1673;Gillarens
+1582;1182;Gilly
+1583;1188;Gimel
+1584;3826;Gimmelwald
+1585;1276;Gingins
+1586;6745;Giornico
+1587;5264;Gipf-Oberfrick
+1588;6038;Gisikon
+1589;6074;Giswil
+1590;6512;Giubiasco
+1591;6671;Giumaglio
+1592;1762;Givisiez
+1593;1271;Givrins
+1594;1196;Gland
+1595;8750;Glarus
+1596;4856;Glashütten
+1597;7428;Glaspass
+1598;8152;Glattbrugg
+1599;8192;Glattfelden
+1600;8301;Glattzentrum b. Wallisell
+1601;1544;Gletterens
+1602;6182;Glichenberg
+1603;1823;Glion
+1604;3902;Glis
+1605;2855;Glovelier
+1606;3981;Gluringen
+1607;6525;Gnosca
+1608;8044;Gockhausen
+1609;3553;Gohl
+1610;6950;Gola di Lago
+1611;3207;Golaten
+1612;9403;Goldach
+1613;6410;Goldau
+1614;8638;Goldingen
+1615;3624;Goldiwil (Thun)
+1616;3805;Goldswil b. Interlaken
+1617;6656;Golino
+1618;1124;Gollion
+1619;8737;Gommiswald
+1620;4955;Gondiswil
+1621;3901;Gondo
+1622;9108;Gonten
+1623;5728;Gontenschwil
+1624;3915;Goppenstein
+1625;3983;Goppisberg
+1626;6672;Gordevio
+1627;6596;Gordola
+1628;6518;Gorduno
+1629;2023;Gorgier
+1630;3920;Gornergrat
+1631;6487;Göschenen
+1632;9202;Gossau SG
+1633;9202;Gossau SG 1
+1634;9202;Gossau SG 2
+1635;8625;Gossau ZH
+1636;1407;Gossens
+1637;4579;Gossliwil
+1638;8583;Götighofen
+1639;8274;Gottlieben
+1640;9225;Gottshaus
+1641;1376;Goumoens-la-Ville
+1642;1376;Goumoens-le-Jux
+1643;2728;Goumois
+1644;3376;Graben
+1645;9472;Grabs
+1646;9472;Grabserberg
+1647;3925;Grächen
+1648;6388;Grafenort
+1649;3308;Grafenried
+1650;8572;Graltshausen
+1651;6916;Grancia
+1652;1117;Grancy
+1653;1543;Grandcour
+1654;1421;Grandevent
+1655;2908;Grandfontaine
+1656;1212;Grand-Lancy
+1657;1212;Grand-Lancy 1
+1658;1212;Grand-Lancy 2
+1659;1775;Grandsivaz
+1660;1422;Grandson
+1661;1422;Grandson 1
+1662;1422;Grandson 2
+1663;2745;Grandval
+1664;1603;Grandvaux
+1665;1666;Grandvillard
+1666;1208;Grange-Canal
+1667;1211;Grange-Canal
+1668;1614;Granges (Veveyse)
+1669;3977;Granges VS
+1670;1484;Granges-de-Vesin
+1671;1763;Granges-Paccot
+1672;1523;Granges-près-Marnand
+1673;1686;Grangettes-près-Romont
+1674;5722;Gränichen
+1675;8415;Gräslikon
+1676;3365;Grasswil
+1677;1624;Grattavache
+1678;6929;Gravesano
+1679;8606;Greifensee
+1680;4203;Grellingen
+1681;2540;Grenchen
+1682;2540;Grenchen 1
+1683;2540;Grenchen 2
+1684;3280;Greng
+1685;3993;Grengiols
+1686;1726;Grenilles
+1687;1261;Grens
+1688;6404;Greppen
+1689;6611;Gresso
+1690;1432;Gressy
+1691;5014;Gretzenbach
+1692;8514;Griesenberg
+1693;3961;Grimentz
+1694;1971;Grimisuat
+1695;3757;Grimmialp
+1696;4247;Grindel
+1697;3818;Grindelwald
+1698;1772;Grolley
+1699;3979;Grône
+1700;6537;Grono
+1701;8841;Gross
+1702;3257;Grossaffoltern
+1703;6146;Grossdietwil
+1704;3506;Grosshöchstetten
+1705;6074;Grossteil
+1706;6022;Grosswangen
+1707;9035;Grub AR
+1708;9036;Grub SG
+1709;3946;Gruben
+1710;3783;Grund b. Gstaad
+1711;3455;Grünen
+1712;3452;Grünenmatt
+1713;8627;Grüningen
+1714;7214;Grüsch
+1715;8624;Grüt (Gossau ZH)
+1716;1663;Gruyères
+1717;1882;Gryon
+1718;3780;Gstaad
+1719;3785;Gsteig b. Gstaad
+1720;3814;Gsteigwiler
+1721;7545;Guarda
+1722;6515;Gudo
+1723;3158;Guggisberg
+1724;1643;Gumefens
+1725;3073;Gümligen
+1726;3205;Gümmenen
+1727;8507;Gündelhart
+1728;4524;Günsberg
+1729;8469;Guntalingen
+1730;3654;Gunten
+1731;8357;Guntershausen b. Aadorf
+1732;8584;Guntershausen b. Birwinke
+1733;8223;Guntmadingen
+1734;4617;Gunzgen
+1735;6222;Gunzwil
+1736;3208;Gurbrü
+1737;3212;Gurmels
+1738;6482;Gurtnellen
+1739;3137;Gurzelen
+1740;1792;Guschelmuth
+1741;4932;Gutenburg
+1742;8605;Gutenswil
+1743;3864;Guttannen
+1744;3941;Guttet
+1745;8594;Güttingen
+1746;3645;Gwatt (Thun)
+1747;1251;Gy
+1748;3503;Gysenstein
+1749;9469;Haag (Rheintal)
+1750;3804;Habkern
+1751;5245;Habsburg
+1752;6166;Habschwanden
+1753;4445;Häfelfingen
+1754;8523;Hagenbuch ZH
+1755;4614;Hägendorf
+1756;6332;Hagendorn
+1757;8580;Hagenwil b. Amriswil
+1758;9312;Häggenschwil
+1759;5607;Hägglingen
+1760;2575;Hagneck
+1761;9223;Halden
+1762;7023;Haldenstein
+1763;6469;Haldi b. Schattdorf
+1764;8215;Hallau
+1765;5705;Hallwil
+1766;4566;Halten
+1767;6289;Hämikon
+1768;8585;Happerswil
+1769;8570;Hard b. Weinfelden
+1770;8553;Harenwilen
+1771;4624;Härkingen
+1772;3415;Hasle b. Burgdorf
+1773;6166;Hasle LU
+1774;9054;Haslen AI
+1775;8773;Haslen GL
+1776;3415;Hasle-Rüegsau
+1777;6085;Hasliberg Goldern
+1778;6083;Hasliberg Hohfluh
+1779;6086;Hasliberg Reuti
+1780;6084;Hasliberg Wasserwendi
+1781;8775;Hätzingen
+1782;4633;Hauenstein
+1783;8926;Hauptikon
+1784;9213;Hauptwil
+1785;8915;Hausen am Albis
+1786;5212;Hausen b. Brugg
+1787;3463;Häusernmoos im Emmental
+1788;8522;Häuslenen
+1789;1997;Haute-Nendaz
+1790;2068;Hauterive
+1791;1648;Hauteville
+1792;3510;Häutligen
+1793;8908;Hedingen
+1794;9435;Heerbrugg
+1795;9440;Heerbrugg Haus und Hobby
+1796;8580;Hefenhofen
+1797;9410;Heiden
+1798;3625;Heiligenschwendi
+1799;8888;Heiligkreuz (Mels)
+1800;6168;Heiligkreuz LU
+1801;3627;Heimberg
+1802;3373;Heimenhausen
+1803;3615;Heimenschwand
+1804;3453;Heimisbach
+1805;3412;Heimiswil
+1806;4558;Heinrichswil
+1807;1714;Heitenried
+1808;9216;Heldswil
+1809;3155;Helgisried-Rohrbach
+1810;6016;Hellbühl
+1811;4316;Hellikon
+1812;3429;Hellsau
+1813;9633;Hemberg
+1814;8261;Hemishofen
+1815;8231;Hemmental
+1816;4465;Hemmiken
+1817;9247;Henau
+1818;5604;Hendschiken
+1819;8444;Henggart
+1820;1681;Hennens
+1821;1525;Henniez
+1822;4715;Herbetswil
+1823;3526;Herbligen
+1824;3927;Herbriggen
+1825;8535;Herdern
+1826;1987;Hérémence
+1827;6133;Hergiswil b. Willisau
+1828;6052;Hergiswil NW
+1829;9100;Herisau
+1830;9101;Herisau
+1831;9102;Herisau
+1832;9100;Herisau 1
+1833;6028;Herlisberg
+1834;1248;Hermance
+1835;8330;Hermatswil
+1836;1513;Hermenches
+1837;5626;Hermetschwil
+1838;3475;Hermiswil
+1839;3274;Hermrigen
+1840;8585;Herrenhof
+1841;3037;Herrenschwanden
+1842;8704;Herrliberg
+1843;4423;Hersberg
+1844;4558;Hersiwil
+1845;6353;Hertenstein
+1846;5027;Herznach
+1847;3360;Herzogenbuchsee
+1848;8583;Hessenreuti
+1849;4577;Hessigkofen
+1850;5317;Hettenschwil
+1851;3325;Hettiswil b. Hindelbank
+1852;8442;Hettlingen
+1853;6024;Hildisrieden
+1854;5613;Hilfikon
+1855;3652;Hilterfingen
+1856;4204;Himmelried
+1857;3324;Hindelbank
+1858;8128;Hinteregg
+1859;9452;Hinterforst
+1860;3089;Hinterfultigen
+1861;3032;Hinterkappelen
+1862;6260;Hintermoos
+1863;7438;Hinterrhein
+1864;6437;Hinterthal
+1865;8340;Hinwil
+1866;5042;Hirschthal
+1867;8816;Hirzel
+1868;8335;Hittnau
+1869;6285;Hitzkirch
+1870;6280;Hochdorf
+1871;8182;Hochfelden
+1872;3429;Höchstetten
+1873;3429;Höchstetten-Hellsau
+1874;4146;Hochwald
+1875;3631;Höfen b. Thun
+1876;8242;Hofen SH
+1877;9114;Hoffeld
+1878;6154;Hofstatt
+1879;3858;Hofstetten b. Brienz
+1880;8354;Hofstetten b. Elgg
+1881;4114;Hofstetten SO
+1882;6276;Hohenrain
+1883;9224;Hohentannen
+1884;3949;Hohtenn
+1885;5113;Holderbank AG
+1886;4718;Holderbank SO
+1887;4434;Hölstein
+1888;6343;Holzhäusern ZG
+1889;5043;Holziken
+1890;3622;Homberg b. Thun
+1891;8634;Hombrechtikon
+1892;8508;Homburg
+1893;6038;Honau
+1894;3702;Hondrich
+1895;8372;Horben b. Sirnach
+1896;3755;Horboden
+1897;8810;Horgen
+1898;8812;Horgen
+1899;8813;Horgen
+1900;8810;Horgen 1
+1901;8815;Horgenberg
+1902;8507;Hörhausen
+1903;8181;Höri
+1904;9326;Horn
+1905;5257;Hornussen
+1906;3623;Horrenbach-Buchen
+1907;4557;Horriwil
+1908;6048;Horw
+1909;9515;Hosenruck
+1910;6493;Hospental
+1911;4348;Hottwil
+1912;6133;Hübeli
+1913;4535;Hubersdorf
+1914;1857;Huémoz
+1915;8565;Hugelshofen
+1916;8457;Humlikon
+1917;9064;Hundwil
+1918;6331;Hünenberg
+1919;3626;Hünibach
+1920;4554;Hüniken
+1921;8194;Hüntwangen
+1922;5502;Hunzenschwil
+1923;6152;Hüswil
+1924;8825;Hütten
+1925;8115;Hüttikon
+1926;8553;Hüttlingen
+1927;8553;Hüttlingen-Mettendorf
+1928;4950;Huttwil
+1929;8536;Hüttwilen
+1930;6438;Ibach
+1931;4571;Ichertswil
+1932;1977;Icogne
+1933;3305;Iffwil
+1934;7206;Igis
+1935;7130;Ilanz
+1936;6434;Illgau
+1937;8558;Illhart
+1938;8574;Illighausen
+1939;8308;Illnau
+1940;1655;Im Fang
+1941;6405;Immensee
+1942;6571;Indemini
+1943;3953;Inden
+1944;3375;Inkwil
+1945;7050;Innerarosa
+1946;3044;Innerberg
+1947;3044;Innerberg-Säriswil
+1948;3619;Innereriz
+1949;7445;Innerferrera
+1950;8858;Innerthal
+1951;3862;Innertkirchen
+1952;3232;Ins
+1953;6951;Insone
+1954;3800;Interlaken
+1955;3801;Interlaken Ausgänge
+1956;6655;Intragna
+1957;6476;Intschi
+1958;6034;Inwil
+1959;2563;Ipsach
+1960;6707;Iragna
+1961;3807;Iseltwald
+1962;3822;Isenfluh
+1963;6461;Isenthal
+1964;6993;Iseo
+1965;1914;Isérables
+1966;8546;Islikon
+1967;8905;Islisberg
+1968;6614;Isole di Brissago
+1969;6810;Isone
+1970;8575;Istighofen
+1971;4452;Itingen
+1972;4337;Ittenthal
+1973;3063;Ittigen
+1974;3629;Jaberg
+1975;1656;Jaun
+1976;3303;Jegenstorf
+1977;7233;Jenaz
+1978;7307;Jenins
+1979;7494;Jenisberg
+1980;2565;Jens
+1981;1793;Jeuss
+1982;8645;Jona
+1983;8916;Jonen
+1984;1805;Jongny
+1985;9243;Jonschwil
+1986;1008;Jouxtens-Mézery
+1987;7448;Juf
+1988;3801;Jungfraujoch
+1989;1326;Juriens
+1990;1254;Jussy
+1991;6056;Kägiswil
+1992;9038;Kaien
+1993;4303;Kaiseraugst
+1994;4303;Kaiseraugst SB
+1995;8434;Kaiserstuhl AG
+1996;4336;Kaisten
+1997;5625;Kallern
+1998;3283;Kallnach
+1999;3922;Kalpetran
+2000;3413;Kaltacker
+2001;6212;Kaltbach
+2002;8722;Kaltbrunn
+2003;8259;Kaltenbach
+2004;9508;Kalthäusern
+2005;4535;Kammersrohr
+2006;3716;Kandergrund
+2007;3718;Kandersteg
+2008;4447;Känerkinden
+2009;8926;Kappel am Albis
+2010;4616;Kappel SO
+2011;3273;Kappelen
+2012;6047;Kastanienbaum
+2013;3126;Kaufdorf
+2014;8546;Kefikon
+2015;3122;Kehrsatz
+2016;6365;Kehrsiten
+2017;8640;Kempraten
+2018;8310;Kemptthal
+2019;3309;Kernenried
+2020;6064;Kerns
+2021;3210;Kerzers
+2022;8593;Kesswil
+2023;4703;Kestenholz
+2024;4468;Kienberg
+2025;3628;Kienersrüti
+2026;3723;Kiental
+2027;3629;Kiesen
+2028;4496;Kilchberg BL
+2029;8802;Kilchberg ZH
+2030;8956;Killwangen
+2031;8963;Kindhausen AG
+2032;3917;Kippel
+2033;3422;Kirchberg BE
+2034;9533;Kirchberg SG
+2035;5416;Kirchdorf AG
+2036;3116;Kirchdorf BE
+2037;3128;Kirchenthurnen
+2038;5054;Kirchleerau
+2039;5054;Kirchleerau-Moosleerau
+2040;3038;Kirchlindach
+2041;8585;Klarsreuti
+2042;8451;Kleinandelfingen
+2043;3213;Kleinbösingen
+2044;4936;Kleindietwil
+2045;5314;Kleindöttingen
+2046;3801;Kleine Scheidegg
+2047;3212;Kleingurmels
+2048;4245;Kleinlützel
+2049;6076;Kleinteil
+2050;6277;Kleinwangen
+2051;5313;Klingnau
+2052;8750;Klöntal
+2053;7250;Klosters
+2054;7252;Klosters Dorf
+2055;8302;Kloten
+2056;4710;Klus
+2057;8881;Knoblisbühl
+2058;8934;Knonau
+2059;6213;Knutwil
+2060;5322;Koblenz
+2061;8483;Kollbrunn
+2062;5742;Kölliken
+2063;3098;Köniz
+2064;3510;Konolfingen
+2065;3510;Konolfingen 1
+2066;3510;Konolfingen 2
+2067;3510;Konolfingen 3
+2068;3425;Koppigen
+2069;6217;Kottwil
+2070;9214;Kradolf
+2071;3315;Kräiligen
+2072;3704;Krattigen
+2073;3326;Krauchthal
+2074;8280;Kreuzlingen
+2075;8280;Kreuzlingen 1
+2076;8280;Kreuzlingen 2
+2077;8280;Kreuzlingen 3
+2078;8280;Kreuzlingen 4
+2079;8288;Kreuzlingen Sonderdienste
+2080;3179;Kriechenwil
+2081;4566;Kriegstetten
+2082;6010;Kriens
+2083;9451;Kriessern
+2084;9622;Krinau
+2085;9302;Kronbühl
+2086;6199;Kröschenbrunnen
+2087;9643;Krummenau
+2088;7240;Küblis
+2089;6234;Kulmerau
+2090;8586;Kümmertshausen
+2091;5444;Künten
+2092;8700;Küsnacht ZH
+2093;6403;Küssnacht am Rigi
+2094;5024;Küttigen
+2095;4581;Küttigkofen
+2096;8314;Kyburg
+2097;4586;Kyburg-Buchegg
+2098;2125;La Brévine
+2099;2407;La Châtagne
+2100;1308;La Chaux (Cossonay)
+2101;2300;La Chaux-de-Fonds
+2102;2301;La Chaux-de-Fonds
+2103;2302;La Chaux-de-Fonds
+2104;2303;La Chaux-de-Fonds
+2105;2304;La Chaux-de-Fonds
+2106;2305;La Chaux-de-Fonds
+2107;2306;La Chaux-de-Fonds
+2108;2300;La Chaux-de-Fonds 1
+2109;2300;La Chaux-de-Fonds 1 Dist
+2110;2724;La Chaux-des-Breuleux
+2111;2405;La Chaux-du-Milieu
+2112;1806;La Chiésaz
+2113;2332;La Cibourg
+2114;1861;La Comballaz
+2115;1093;La Conversion
+2116;1783;La Corbaz
+2117;2117;La Côte-aux-Fées
+2118;1602;La Croix (Lutry)
+2119;1257;La Croix-de-Rozon
+2120;1265;La Cure
+2121;2333;La Ferrière
+2122;1866;La Forclaz VD
+2123;1944;La Fouly VS
+2124;2604;La Heutte
+2125;1697;La Joux FR
+2126;2058;La Joux-du-Plâne
+2127;1831;La Lécherette
+2128;1687;La Magne
+2129;1686;La Neirigue
+2130;2520;La Neuveville
+2131;1283;La Plaine
+2132;1227;La Praille
+2133;1327;La Praz
+2134;7522;La Punt-Chamues-ch
+2135;1278;La Rippe
+2136;1634;La Roche FR
+2137;1613;La Rogivue
+2138;7742;La Rösa
+2139;1623;La Rougève
+2140;1985;La Sage
+2141;1450;La Sagne (Ste-Croix)
+2142;2314;La Sagne NE
+2143;1315;La Sarraz
+2144;2720;La Tanne
+2145;1831;La Tine
+2146;1814;La Tour-de-Peilz
+2147;1635;La Tour-de-Trême
+2148;1624;La Verrerie
+2149;1454;La Vraconnaz
+2150;2209;La Vue-des-Alpes
+2151;7031;Laax GR
+2152;7031;Laax GR 1
+2153;7032;Laax GR 2
+2154;1344;L'Abbaye
+2155;1355;L'Abergement
+2156;9428;Lachen AR
+2157;8853;Lachen SZ
+2158;8851;Lachen SZ Ramensperger AG
+2159;1287;Laconnex
+2160;7155;Ladir
+2161;2718;Lajoux JU
+2162;3931;Lalden
+2163;2516;Lamboing
+2164;6814;Lamone
+2165;6814;Lamone-Cadempino
+2166;4432;Lampenberg
+2167;6545;Landarenca
+2168;7302;Landquart
+2169;7207;Landquart Fabriken
+2170;8597;Landschlacht
+2171;4438;Langenbruck
+2172;3636;Längenbühl
+2173;4513;Langendorf
+2174;4900;Langenthal
+2175;4901;Langenthal
+2176;4902;Langenthal
+2177;4903;Langenthal
+2178;4900;Langenthal 1
+2179;8135;Langnau am Albis
+2180;6262;Langnau b. Reiden
+2181;3550;Langnau im Emmental
+2182;8585;Langrickenbach
+2183;7057;Langwies
+2184;8246;Langwiesen
+2185;9503;Lanterswil
+2186;7083;Lantsch/Lenz
+2187;3148;Lanzenhäusern
+2188;8506;Lanzenneunforn
+2189;6711;Largario
+2190;7484;Latsch
+2191;3758;Latterbach
+2192;1454;L'Auberson
+2193;3782;Lauenen b. Gstaad
+2194;6424;Lauerz
+2195;4448;Läufelfingen
+2196;4242;Laufen
+2197;4335;Laufenburg
+2198;3177;Laupen BE
+2199;8637;Laupen ZH
+2200;4712;Laupersdorf
+2201;3438;Lauperswil
+2202;6549;Laura
+2203;1001;Lausanne
+2204;1002;Lausanne
+2205;1003;Lausanne
+2206;1004;Lausanne
+2207;1005;Lausanne
+2208;1006;Lausanne
+2209;1007;Lausanne
+2210;1010;Lausanne
+2211;1011;Lausanne
+2212;1012;Lausanne
+2213;1015;Lausanne
+2214;1018;Lausanne
+2215;1000;Lausanne
+2216;1000;Lausanne 1 Dist Lettres
+2217;1000;Lausanne 12
+2218;1000;Lausanne 13
+2219;1000;Lausanne 14
+2220;1000;Lausanne 16
+2221;1000;Lausanne 17
+2222;1000;Lausanne 19
+2223;1000;Lausanne 2
+2224;1000;Lausanne 20
+2225;1000;Lausanne 21
+2226;1000;Lausanne 22
+2227;1000;Lausanne 23
+2228;1000;Lausanne 24
+2229;1000;Lausanne 25
+2230;1000;Lausanne 26
+2231;1000;Lausanne 27
+2232;1000;Lausanne 28
+2233;1000;Lausanne 3
+2234;1000;Lausanne 30
+2235;1000;Lausanne 4
+2236;1000;Lausanne 5
+2237;1000;Lausanne 6
+2238;1000;Lausanne 7
+2239;1000;Lausanne 8
+2240;1000;Lausanne 9
+2241;1014;Lausanne Adm cant VD
+2242;1017;Lausanne Charles Veillon
+2243;1001;Lausanne DAP
+2244;1000;Lausanne DT
+2245;4415;Lausen
+2246;3822;Lauterbrunnen
+2247;4426;Lauwil
+2248;6633;Lavertezzo
+2249;1892;Lavey-Village
+2250;1175;Lavigny
+2251;7543;Lavin
+2252;6746;Lavorgo
+2253;3994;Lax
+2254;2877;Le Bémont JU
+2255;2336;Le Boéchet
+2256;1348;Le Brassus
+2257;2128;Le Brouillet
+2258;1645;Le Bry
+2259;2405;Le Cachot
+2260;2414;Le Cerneux-Péquignot
+2261;2724;Le Cerneux-Veusil
+2262;1934;Le Châble VS
+2263;1450;Le Château-de-Ste-Croix
+2264;1925;Le Châtelard VS
+2265;1689;Le Châtelard-près-Romont
+2266;2412;Le Col-des-Roches
+2267;2322;Le Crêt-du-Locle
+2268;1611;Le Crêt-près-Semsales
+2269;2712;Le Fuet
+2270;1218;Le Grand-Saconnex
+2271;1609;Le Jordil
+2272;2525;Le Landeron
+2273;1345;Le Lieu
+2274;1219;Le Lignon
+2275;2400;Le Locle
+2276;1801;Le Mont-Pèlerin
+2277;1052;Le Mont-sur-Lausanne
+2278;1051;Le Mont-sur-Lausanne Poly
+2279;1261;Le Muids
+2280;2725;Le Noirmont
+2281;2058;Le Pâquier NE
+2282;1661;Le Pâquier-Montbarry
+2283;2724;Le Peuchapatte
+2284;1342;Le Pont
+2285;2711;Le Prédame
+2286;7746;Le Prese
+2287;2413;Le Prévoux
+2288;1347;Le Sentier
+2289;1863;Le Sépey
+2290;1347;Le Solliat
+2291;1923;Le Trétien
+2292;1261;Le Vaud
+2293;1773;Léchelles
+2294;6556;Leggia
+2295;4353;Leibstadt
+2296;5733;Leimbach AG
+2297;8584;Leimbach TG
+2298;4935;Leimiswil
+2299;3706;Leissigen
+2300;9525;Lenggenwil
+2301;5426;Lengnau AG
+2302;2543;Lengnau BE
+2303;8574;Lengwil-Oberhofen
+2304;3775;Lenk im Simmental
+2305;1978;Lens
+2306;1745;Lentigny
+2307;5600;Lenzburg
+2308;5600;Lenzburg 1
+2309;5600;Lenzburg 2
+2310;5601;Lenzburg Sonderdienste
+2311;7078;Lenzerheide/Lai
+2312;6711;Leontica
+2313;1227;Les Acacias
+2314;1992;Les Agettes
+2315;1220;Les Avanchets
+2316;1833;Les Avants
+2317;2127;Les Bayards
+2318;1346;Les Bioux
+2319;2336;Les Bois
+2320;2416;Les Brenets
+2321;2724;Les Breuleux
+2322;1343;Les Charbonnières
+2323;1356;Les Clées
+2324;1988;Les Collons
+2325;1080;Les Cullayes
+2326;1865;Les Diablerets
+2327;1697;Les Ecasseys
+2328;2338;Les Emibois-Muriaux
+2329;2875;Les Enfers
+2330;1891;Les Evouettes
+2331;2416;Les Frêtes
+2332;1584;Les Friques
+2333;2206;Les Geneveys-sur-Coffrane
+2334;2714;Les Genevez JU
+2335;1871;Les Giettes
+2336;1922;Les Granges (Salvan)
+2337;1984;Les Haudères
+2338;2208;Les Hauts-Geneveys
+2339;2325;Les Joux-Derrière
+2340;2209;Les Loges
+2341;1923;Les Marécottes
+2342;1992;Les Mayens-de-Sion
+2343;1808;Les Monts-de-Corsier
+2344;1862;Les Mosses
+2345;1834;Les Moulins
+2346;1619;Les Paccots
+2347;2318;Les Petits-Ponts
+2348;2325;Les Planchettes
+2349;1888;Les Plans-sur-Bex
+2350;2727;Les Pommerats
+2351;2610;Les Pontins
+2352;2316;Les Ponts-de-Martel
+2353;1886;Les Posses-sur-Bex
+2354;2534;Les Prés-d'Orvin
+2355;1452;Les Rasses
+2356;2722;Les Reussilles
+2357;2108;Les Ruillères
+2358;2124;Les Sagnettes
+2359;1831;Les Sciernes-d'Albeuve
+2360;2125;Les Taillères
+2361;1501;Les Tavernes
+2362;1501;Les Thioleyres
+2363;2126;Les Verrières
+2364;2054;Les Vieux-Prés
+2365;1669;Lessoc
+2366;1831;L'Etivaz
+2367;8772;Leuggelbach
+2368;5316;Leuggern
+2369;3953;Leuk Stadt
+2370;3954;Leukerbad
+2371;5725;Leutwil
+2372;3297;Leuzigen
+2373;1942;Levron
+2374;1854;Leysin
+2375;1854;Leysin 1
+2376;1854;Leysin 2
+2377;1912;Leytron
+2378;7745;Li Curt
+2379;9614;Libingen
+2380;9620;Lichtensteig
+2381;1945;Liddes
+2382;3097;Liebefeld
+2383;3213;Liebistorf
+2384;4436;Liedertswil
+2385;1688;Lieffrens
+2386;6277;Lieli LU
+2387;9464;Lienz
+2388;4253;Liesberg
+2389;4254;Liesberg Dorf
+2390;4410;Liestal
+2391;4410;Liestal Kaserne
+2392;2514;Ligerz
+2393;1357;Lignerolle
+2394;2523;Lignières
+2395;6853;Ligornetto
+2396;3317;Limpach
+2397;8315;Lindau
+2398;3517;Linden
+2399;6682;Linescio
+2400;5224;Linn
+2401;8783;Linthal
+2402;8557;Lipperswil
+2403;8566;Lippoldswilen
+2404;1148;L'Isle
+2405;6014;Littau
+2406;9573;Littenheid
+2407;7058;Litzirüti
+2408;3268;Lobsigen
+2409;3960;Loc
+2410;6600;Locarno
+2411;6601;Locarno
+2412;6604;Locarno
+2413;6605;Locarno
+2414;6600;Locarno 1 Dist Lettere
+2415;6600;Locarno 3 Stazione Autopo
+2416;6611;Locarno Sortite
+2417;6671;Locarno Sortite
+2418;6611;Loco
+2419;6671;Lodano
+2420;6527;Lodrino
+2421;7433;Lohn GR
+2422;8235;Lohn SH
+2423;4573;Lohn SO
+2424;4573;Lohn-Ammannsegg
+2425;8224;Löhningen
+2426;3127;Lohnstorf
+2427;9308;Lömmenschwil
+2428;9506;Lommis
+2429;4514;Lommiswil
+2430;1027;Lonay
+2431;1261;Longirod
+2432;6956;Lopagno
+2433;6616;Losone
+2434;1782;Lossy-Formangue
+2435;6558;Lostallo
+2436;4654;Lostorf
+2437;6711;Lottigna
+2438;4932;Lotzwil
+2439;1948;Lourtier
+2440;1682;Lovatens
+2441;1756;Lovens
+2442;2732;Loveresse
+2443;7534;Lü
+2444;2807;Lucelle
+2445;1522;Lucens
+2446;9438;Lüchingen
+2447;8775;Luchsingen
+2448;8775;Luchsingen-Hätzingen
+2449;6711;Ludiano
+2450;7027;Lüen
+2451;8426;Lufingen
+2452;6953;Lugaggia
+2453;6900;Lugano
+2454;6901;Lugano
+2455;6902;Lugano
+2456;6903;Lugano
+2457;6904;Lugano
+2458;6906;Lugano
+2459;6900;Lugano 3 Distribuzione
+2460;6905;Lugano 5 Serv Autopostali
+2461;6910;Lugano Servizi Speciali
+2462;6951;Lugano Sortite
+2463;6981;Lugano Sortite
+2464;2933;Lugnez
+2465;1789;Lugnorre
+2466;1184;Luins
+2467;1470;Lully FR
+2468;1132;Lully VD
+2469;7148;Lumbrein
+2470;6533;Lumino
+2471;6078;Lungern
+2472;5242;Lupfig
+2473;4419;Lupsingen
+2474;3215;Lurtigen
+2475;2576;Lüscherz
+2476;1307;Lussery
+2477;4574;Lüsslingen
+2478;1690;Lussy FR
+2479;1133;Lussy-sur-Morges
+2480;8513;Lustdorf
+2481;9062;Lustmühle
+2482;4708;Luterbach
+2483;4571;Lüterkofen
+2484;4571;Lüterkofen-Ichertswil
+2485;4584;Lüterswil
+2486;4584;Lüterswil-Gächliwil
+2487;6157;Luthern Bad
+2488;6156;Luthern Dorf
+2489;9235;Lütisburg
+2490;9601;Lütisburg Station
+2491;1095;Lutry
+2492;3816;Lütschental
+2493;3432;Lützelflüh-Goldbach
+2494;9426;Lutzenberg
+2495;7141;Luven
+2496;7242;Luzein
+2497;6000;Luzern
+2498;6002;Luzern
+2499;6003;Luzern
+2500;6004;Luzern
+2501;6005;Luzern
+2502;6006;Luzern
+2503;6009;Luzern
+2504;6000;Luzern 10
+2505;6000;Luzern 11
+2506;6000;Luzern 12
+2507;6000;Luzern 13
+2508;6000;Luzern 14
+2509;6000;Luzern 15
+2510;6000;Luzern 16
+2511;6000;Luzern 2 Briefausgabe
+2512;6000;Luzern 20
+2513;6000;Luzern 4
+2514;6000;Luzern 5
+2515;6000;Luzern 6
+2516;6000;Luzern 7
+2517;6000;Luzern 9
+2518;6002;Luzern KPD
+2519;6002;Luzern TD
+2520;6007;Luzern Verarbeitungszentr
+2521;3250;Lyss
+2522;3250;Lyss Briefausgabe
+2523;3421;Lyssach
+2524;1987;Mâche
+2525;8322;Madetswil
+2526;4934;Madiswil
+2527;6995;Madonna del Piano
+2528;6781;Madrano
+2529;8886;Mädris-Vermol
+2530;7523;Madulain
+2531;6573;Magadino
+2532;4312;Magden
+2533;5506;Mägenwil
+2534;6673;Maggia
+2535;2532;Magglingen/Macolin
+2536;6983;Magliaso
+2537;6951;Maglio di Colla
+2538;1727;Magnedens
+2539;7304;Maienfeld
+2540;6763;Mairengo
+2541;4464;Maisprach
+2542;7026;Maladers
+2543;7208;Malans GR
+2544;1042;Malapalud
+2545;7074;Malix
+2546;2735;Malleray
+2547;2735;Malleray-Bévilard
+2548;7516;Maloja
+2549;6102;Malters
+2550;6713;Malvaglia
+2551;6712;Malvaglia Chiesa
+2552;3152;Mamishaus
+2553;8265;Mammern
+2554;5318;Mandach
+2555;8708;Männedorf
+2556;8268;Mannenbach-Salenstein
+2557;1775;Mannens
+2558;1775;Mannens-Grandsivaz
+2559;6928;Manno
+2560;1613;Maracon
+2561;6196;Marbach LU
+2562;9437;Marbach SG
+2563;1261;Marchissy
+2564;4115;Mariastein
+2565;2074;Marin-Epagnier
+2566;1723;Marly
+2567;1723;Marly 1
+2568;1723;Marly 2
+2569;7456;Marmorera
+2570;1524;Marnand
+2571;6817;Maroggia
+2572;6711;Marolta
+2573;1633;Marsens
+2574;8562;Märstetten Dorf
+2575;8560;Märstetten Station
+2576;2316;Martel-Dernier
+2577;8460;Marthalen
+2578;1063;Martherenges
+2579;1920;Martigny
+2580;1920;Martigny 1
+2581;1920;Martigny 1 Dist Lettres
+2582;1920;Martigny 2
+2583;1920;Martigny Bourg
+2584;1921;Martigny-Croix
+2585;7560;Martina
+2586;3994;Martisberg
+2587;9562;Märwil
+2588;8933;Maschwanden
+2589;1961;Mase
+2590;7425;Masein
+2591;6900;Massagno
+2592;6900;Massagno Caselle
+2593;1891;Massongex
+2594;1692;Massonnens
+2595;7303;Mastrils
+2596;1438;Mathod
+2597;7433;Mathon
+2598;1753;Matran
+2599;8766;Matt
+2600;3773;Matten (St. Stephan)
+2601;3800;Matten b. Interlaken
+2602;3322;Mattstetten
+2603;8585;Mattwil
+2604;4713;Matzendorf
+2605;9548;Matzingen
+2606;1453;Mauborget
+2607;6216;Mauensee
+2608;1625;Maules
+2609;8124;Maur
+2610;1148;Mauraz
+2611;9493;Mauren FL
+2612;8576;Mauren TG
+2613;1918;Mayens-de-Riddes
+2614;6809;Medeglia
+2615;7436;Medels im Rheinwald
+2616;6045;Meggen
+2617;6485;Meien
+2618;3294;Meienried
+2619;6344;Meierskappel
+2620;3045;Meikirch
+2621;8706;Meilen
+2622;1252;Meinier
+2623;2554;Meinisberg
+2624;3860;Meiringen
+2625;5616;Meisterschwanden
+2626;6818;Melano
+2627;4917;Melchnau
+2628;6068;Melchsee-Frutt
+2629;6067;Melchtal
+2630;6815;Melide
+2631;8439;Mellikon
+2632;5507;Mellingen
+2633;8887;Mels
+2634;4233;Meltingen
+2635;6850;Mendrisio
+2636;6850;Mendrisio Borgo
+2637;6851;Mendrisio Sortite
+2638;6850;Mendrisio Stazione
+2639;1533;Ménières
+2640;6125;Menzberg
+2641;5737;Menziken
+2642;6313;Menzingen
+2643;6122;Menznau
+2644;6692;Menzonio
+2645;5634;Merenschwand
+2646;6647;Mergoscia
+2647;6866;Meride
+2648;8232;Merishausen
+2649;3658;Merligen
+2650;6402;Merlischachen
+2651;2827;Mervelier
+2652;3274;Merzligen
+2653;6563;Mesocco
+2654;3254;Messen
+2655;4344;Mettau
+2656;2806;Mettembert
+2657;8553;Mettendorf TG
+2658;9517;Mettlen
+2659;8932;Mettmenstetten
+2660;8252;Mett-Oberschlatt
+2661;4116;Metzerlen
+2662;1031;Mex VD
+2663;1891;Mex VS
+2664;3280;Meyriez
+2665;1217;Meyrin
+2666;1217;Meyrin 1
+2667;1217;Meyrin 2
+2668;1407;Mézery-près-Donneloye
+2669;1684;Mézières FR
+2670;1083;Mézières VD
+2671;6805;Mezzovico
+2672;1749;Middes
+2673;2946;Miécourt
+2674;3972;Miège
+2675;1295;Mies
+2676;1295;Mies-Tannay
+2677;1896;Miex
+2678;6981;Miglieglia
+2679;3157;Milken
+2680;6648;Minusio
+2681;7743;Miralago
+2682;3532;Mirchel
+2683;1721;Misery
+2684;1565;Missy
+2685;8756;Mitlödi
+2686;3147;Mittelhäusern
+2687;7222;Mittellunden
+2688;9122;Mogelsberg
+2689;6671;Moghegno
+2690;4313;Möhlin
+2691;1314;Moiry VD
+2692;6760;Molare
+2693;6524;Moleno
+2694;1662;Moléson-Village
+2695;6995;Molinazzo di Monteggio
+2696;7056;Molinis
+2697;1146;Mollens VD
+2698;3974;Mollens VS
+2699;1074;Mollie-Margot
+2700;8753;Mollis
+2701;1415;Molondin
+2702;8885;Mols
+2703;7183;Mompé Medel
+2704;7186;Mompé Tujetsch
+2705;7458;Mon
+2706;7250;Monbiel
+2707;8617;Mönchaltorf
+2708;6659;Moneto
+2709;2715;Monible
+2710;1125;Monnaz
+2711;2608;Montagne-de-Courtelary
+2712;2615;Montagne-de-Sonvilier
+2713;6926;Montagnola
+2714;1776;Montagny-la-Ville
+2715;1774;Montagny-les-Monts
+2716;1442;Montagny-près-Yverdon
+2717;2027;Montalchez
+2718;3962;Montana
+2719;3962;Montana-Vermala
+2720;1041;Montaubion-Chardonney
+2721;2857;Montavon
+2722;1835;Montbovon
+2723;1569;Montbrelloz
+2724;1354;Montcherand
+2725;2610;Mont-Crosin
+2726;2116;Mont-de-Buttes
+2727;6851;Monte
+2728;6903;Monte Brè 6903 Lugano
+2729;6605;Monte Brè sopra Locarno
+2730;6513;Monte Carasso
+2731;2884;Montenol
+2732;1483;Montet (Broye)
+2733;1674;Montet (Glâne)
+2734;1724;Montévraz
+2735;2875;Montfaucon
+2736;2874;Montfavergier
+2737;5237;Mönthal
+2738;1174;Montherod
+2739;1870;Monthey
+2740;1870;Monthey 1
+2741;1870;Monthey 2
+2742;2924;Montignez
+2743;1328;Mont-la-Ville
+2744;9462;Montlingen
+2745;1587;Montmagny
+2746;2883;Montmelon
+2747;2205;Montmollin
+2748;1081;Montpreveyres
+2749;1099;Montpreveyres Fotolabo Cl
+2750;1820;Montreux
+2751;1820;Montreux 1
+2752;1820;Montreux 1 Dist Lettres
+2753;1820;Montreux 2
+2754;1820;Montreux 3
+2755;1831;Montreux Sorties
+2756;1147;Montricher
+2757;2828;Montsevelier
+2758;2610;Mont-Soleil
+2759;1185;Mont-sur-Rolle
+2760;2723;Mont-Tramelan
+2761;5054;Moosleerau
+2762;3302;Moosseedorf
+2763;6834;Morbio Inferiore
+2764;6835;Morbio Superiore
+2765;6922;Morcote
+2766;3983;Mörel
+2767;1541;Morens FR
+2768;6315;Morgarten
+2769;1110;Morges
+2770;1110;Morges 1
+2771;1110;Morges 2
+2772;1110;Morges 3
+2773;1875;Morgins
+2774;2572;Mörigen
+2775;5103;Möriken AG
+2776;7143;Morissen
+2777;1674;Morlens
+2778;6074;Mörlialp
+2779;1638;Morlon
+2780;1054;Morrens VD
+2781;6443;Morschach
+2782;9402;Mörschwil
+2783;6295;Mosen
+2784;9607;Mosnang
+2785;6611;Mosogno
+2786;1675;Mossel
+2787;1787;Môtier (Vully)
+2788;2112;Môtiers NE
+2789;3324;Mötschwil
+2790;6711;Motto (Blenio)
+2791;1510;Moudon
+2792;2740;Moutier
+2793;2740;Moutier 1
+2794;2740;Moutier 2
+2795;2812;Movelier
+2796;6939;Mugena
+2797;6831;Muggio
+2798;5037;Muhen
+2799;5642;Mühlau
+2800;3995;Mühlebach (Goms)
+2801;3203;Mühleberg
+2802;3116;Mühledorf BE
+2803;4583;Mühledorf SO
+2804;8874;Mühlehorn
+2805;4812;Mühlethal
+2806;3127;Mühlethurnen
+2807;9613;Mühlrüti
+2808;3317;Mülchi
+2809;7455;Mulegns
+2810;3711;Mülenen
+2811;8555;Müllheim Dorf
+2812;8554;Müllheim-Wigoltingen
+2813;5243;Mülligen
+2814;4717;Mümliswil
+2815;4322;Mumpf
+2816;3053;Münchenbuchsee
+2817;4142;Münchenstein
+2818;4142;Münchenstein 1
+2819;4142;Münchenstein 2
+2820;4142;Münchenstein 3
+2821;4140;Münchenstein Spengler AG
+2822;1797;Münchenwiler
+2823;3303;Münchringen
+2824;4333;Münchwilen AG
+2825;9542;Münchwilen TG
+2826;3901;Mund
+2827;3110;Münsingen
+2828;3985;Münster VS
+2829;3286;Muntelier
+2830;3225;Müntschemier
+2831;9313;Muolen
+2832;6436;Muotathal
+2833;1787;Mur (Vully)
+2834;7108;Mura (Safien)
+2835;6600;Muralto
+2836;1893;Muraz (Collombey)
+2837;3964;Muraz (Sierre)
+2838;8877;Murg
+2839;4853;Murgenthal
+2840;5630;Muri AG
+2841;3074;Muri b. Bern
+2842;1489;Murist
+2843;3825;Mürren
+2844;3280;Murten
+2845;3034;Murzelen
+2846;9602;Müselbach
+2847;7537;Müstair
+2848;6289;Müswangen
+2849;1428;Mutrux
+2850;7431;Mutten
+2851;4132;Muttenz
+2852;4132;Muttenz 1
+2853;4132;Muttenz 2
+2854;6933;Muzzano
+2855;8752;Näfels
+2856;8606;Nänikon
+2857;9123;Nassen
+2858;3904;Naters
+2859;1961;Nax
+2860;1041;Naz
+2861;6244;Nebikon
+2862;9126;Necker
+2863;8173;Neerach
+2864;8413;Neftenbach
+2865;6991;Neggio
+2866;1668;Neirivue
+2867;9485;Nendeln
+2868;4574;Nennigkofen
+2869;4224;Nenzlingen
+2870;8484;Neschwil
+2871;5523;Nesselnbach
+2872;3863;Nessental
+2873;9650;Nesslau
+2874;8754;Netstal
+2875;8759;Netstal Verarbeitungszent
+2876;9652;Neu St. Johann
+2877;6314;Neuägeri
+2878;8488;Neubrunn
+2879;2000;Neuchâtel
+2880;2001;Neuchâtel
+2881;2002;Neuchâtel
+2882;2003;Neuchâtel
+2883;2004;Neuchâtel
+2884;2005;Neuchâtel
+2885;2006;Neuchâtel
+2886;2007;Neuchâtel
+2887;2008;Neuchâtel
+2888;2009;Neuchâtel
+2889;2000;Neuchâtel 2 Dist Lettres
+2890;2001;Neuchâtel DAP
+2891;2002;Neuchâtel DT
+2892;6025;Neudorf
+2893;4623;Neuendorf
+2894;3176;Neuenegg
+2895;5432;Neuenhof
+2896;6206;Neuenkirch
+2897;8732;Neuhaus SG
+2898;8212;Neuhausen am Rheinfall
+2899;8212;Neuhausen am Rheinfall 1
+2900;8212;Neuhausen am Rheinfall 2
+2901;6345;Neuheim
+2902;9315;Neukirch (Egnach)
+2903;8578;Neukirch an der Thur
+2904;8213;Neunkirch
+2905;8566;Neuwilen
+2906;1740;Neyruz FR
+2907;1515;Neyruz-sur-Moudon
+2908;2560;Nidau
+2909;8772;Nidfurn
+2910;4704;Niederbipp
+2911;4626;Niederbuchsiten
+2912;9246;Niederbüren
+2913;4435;Niederdorf
+2914;5015;Niedererlinsbach
+2915;3945;Niedergampel
+2916;3942;Niedergesteln
+2917;9240;Niederglatt SG
+2918;8172;Niederglatt ZH
+2919;5013;Niedergösgen
+2920;8155;Niederhasli
+2921;9527;Niederhelfenschwil
+2922;3504;Niederhünigen
+2923;5702;Niederlenz
+2924;3087;Niedermuhlern
+2925;8525;Niederneunforn
+2926;3362;Niederönz
+2927;3424;Niederösch
+2928;6383;Niederrickenbach
+2929;3853;Niederried b. Interlaken
+2930;3283;Niederried b. Kallnach
+2931;5443;Niederrohrdorf
+2932;3145;Niederscherli
+2933;3632;Niederstocken
+2934;9052;Niederteufen
+2935;8867;Niederurnen
+2936;9244;Niederuzwil
+2937;3981;Niederwald
+2938;3172;Niederwangen b. Bern
+2939;8166;Niederweningen
+2940;3114;Niederwichtrach
+2941;5524;Niederwil AG
+2942;9203;Niederwil SG
+2943;4523;Niederwil SO
+2944;8500;Niederwil TG
+2945;3712;Niesen Kulm
+2946;6683;Niva (Vallemaggia)
+2947;6746;Nivo
+2948;2518;Nods
+2949;3976;Noës
+2950;3116;Noflen BE
+2951;8212;Nohl
+2952;2103;Noiraigue
+2953;1757;Noréaz
+2954;6207;Nottwil
+2955;6207;Nottwil Paraplegikerzentr
+2956;6986;Novaggio
+2957;1431;Novalles
+2958;6883;Novazzano
+2959;1845;Noville
+2960;7437;Nufenen
+2961;4412;Nuglar
+2962;4208;Nunningen
+2963;8309;Nürensdorf
+2964;5415;Nussbaumen b. Baden
+2965;8537;Nussbaumen TG
+2966;4453;Nusshof
+2967;1485;Nuvilly
+2968;1260;Nyon
+2969;1260;Nyon Dist Lettres
+2970;1260;Nyon RCP
+2971;1261;Nyon Sorties
+2972;6363;Obbürgen
+2973;8587;Oberaach
+2974;6315;Oberägeri
+2975;6414;Oberarth
+2976;3096;Oberbalm
+2977;6170;Oberberg b. Schüpfheim
+2978;4538;Oberbipp
+2979;5225;Oberbözberg
+2980;4625;Oberbuchsiten
+2981;9245;Oberbüren
+2982;3414;Oberburg
+2983;9565;Oberbussnang
+2984;3088;Oberbütschel
+2985;3515;Oberdiessbach
+2986;4436;Oberdorf BL
+2987;6370;Oberdorf NW
+2988;4515;Oberdorf SO
+2989;9413;Oberegg
+2990;5422;Oberehrendingen
+2991;8425;Oberembrach
+2992;3948;Oberems
+2993;8102;Oberengstringen
+2994;5036;Oberentfelden
+2995;5016;Obererlinsbach
+2996;5108;Oberflachs
+2997;3551;Oberfrittenbach
+2998;4564;Obergerlafingen
+2999;3981;Obergesteln
+3000;8154;Oberglatt ZH
+3001;3434;Obergoldbach
+3002;4653;Obergösgen
+3003;8216;Oberhallau
+3004;8156;Oberhasli
+3005;9621;Oberhelfenschwil
+3006;8335;Oberhittnau
+3007;5267;Oberhof
+3008;4345;Oberhofen AG
+3009;3653;Oberhofen am Thunersee
+3010;8574;Oberhofen b. Kreuzlingen
+3011;3504;Oberhünigen
+3012;8843;Oberiberg
+3013;6208;Oberkirch LU
+3014;5727;Oberkulm
+3015;8917;Oberlunkhofen
+3016;8706;Obermeilen
+3017;4324;Obermumpf
+3018;7431;Obermutten
+3019;6012;Obernau
+3020;8526;Oberneunforn
+3021;3363;Oberönz
+3022;3424;Oberösch
+3023;4588;Oberramsern
+3024;6387;Oberrickenbach
+3025;3854;Oberried am Brienzersee
+3026;1724;Oberried FR
+3027;8942;Oberrieden
+3028;9463;Oberriet SG
+3029;5452;Oberrohrdorf
+3030;5647;Oberrüti
+3031;7133;Obersaxen Affeier
+3032;7136;Obersaxen Friggahüs
+3033;7135;Obersaxen Giraniga
+3034;7134;Obersaxen Meierhof
+3035;9479;Oberschan
+3036;1716;Oberschrot
+3037;8477;Oberstammheim
+3038;4924;Obersteckholz
+3039;8884;Oberterzen
+3040;3531;Oberthal
+3041;8868;Oberurnen
+3042;9242;Oberuzwil
+3043;3999;Oberwald
+3044;3173;Oberwangen b. Bern
+3045;8371;Oberwangen TG
+3046;8165;Oberweningen
+3047;3114;Oberwichtrach
+3048;3298;Oberwil b. Büren
+3049;6317;Oberwil b. Zug
+3050;4104;Oberwil BL
+3051;3765;Oberwil im Simmental
+3052;8500;Oberwil TG
+3053;8966;Oberwil-Lieli
+3054;8912;Obfelden
+3055;8875;Obstalden
+3056;3367;Ochlenberg
+3057;2889;Ocourt
+3058;6951;Odogno
+3059;4566;Oekingen
+3060;4702;Oensingen
+3061;8461;Oerlingen
+3062;4943;Oeschenbach
+3063;5263;Oeschgen
+3064;3776;Oeschseite
+3065;8618;Oetwil am See
+3066;8955;Oetwil an der Limmat
+3067;3753;Oey
+3068;4665;Oftringen
+3069;4665;Oftringen 1
+3070;4665;Oftringen 2
+3071;1045;Ogens
+3072;6955;Oggio
+3073;6143;Ohmstal
+3074;1580;Oleyres
+3075;6718;Olivone
+3076;1867;Ollon VD
+3077;3971;Ollon VS
+3078;4305;Olsberg
+3079;4600;Olten
+3080;4601;Olten
+3081;4603;Olten
+3082;4600;Olten 1
+3083;4600;Olten 1 Ausgabe
+3084;4600;Olten TD
+3085;4494;Oltingen
+3086;1213;Onex
+3087;1756;Onnens FR
+3088;1425;Onnens VD
+3089;8584;Opfershofen TG
+3090;8236;Opfertshofen SH
+3091;8152;Opfikon
+3092;1413;Oppens
+3093;9563;Oppikon
+3094;3629;Oppligen
+3095;1350;Orbe
+3096;1430;Orges
+3097;1341;Orient
+3098;6945;Origlio
+3099;4466;Ormalingen
+3100;1317;Orny
+3101;1610;Oron-la-Ville
+3102;1608;Oron-le-Châtel
+3103;2552;Orpund
+3104;6644;Orselina
+3105;1937;Orsières
+3106;1693;Orsonnens
+3107;3042;Ortschwaben
+3108;2534;Orvin
+3109;1413;Orzens
+3110;3476;Oschwand
+3111;6763;Osco
+3112;6703;Osogna
+3113;6703;Osogna Stazione
+3114;7710;Ospizio Bernina
+3115;8475;Ossingen
+3116;8218;Osterfingen
+3117;6130;Ostergau
+3118;3072;Ostermundigen
+3119;3072;Ostermundigen 1
+3120;3072;Ostermundigen 2
+3121;3072;Ostermundigen SB
+3122;8112;Otelfingen
+3123;5504;Othmarsingen
+3124;8913;Ottenbach
+3125;8626;Ottikon (Gossau ZH)
+3126;8307;Ottikon b. Kemptthal
+3127;8561;Ottoberg
+3128;1041;Oulens-sous-Echallens
+3129;1522;Oulens-sur-Lucens
+3130;1911;Ovronnaz
+3131;7028;Pagig
+3132;1416;Pailly
+3133;6657;Palagnedra
+3134;1607;Palézieux-Gare
+3135;1501;Palézieux-Village
+3136;6915;Pambio-Noranco
+3137;1142;Pampigny
+3138;1858;Panex
+3139;7243;Pany
+3140;6900;Paradiso
+3141;7076;Parpan
+3142;7464;Parsonz
+3143;7417;Paspels
+3144;7062;Passugg-Araschgen
+3145;1094;Paudex
+3146;1530;Payerne
+3147;6912;Pazzallo
+3148;6695;Peccia
+3149;6832;Pedrinate
+3150;7029;Peist
+3151;1059;Peney-le-Jorat
+3152;1783;Pensier
+3153;1305;Penthalaz
+3154;1303;Penthaz
+3155;1375;Penthéréaz
+3156;6035;Perlen
+3157;1258;Perly
+3158;2742;Perrefitte
+3159;1166;Perroy
+3160;6744;Personico
+3161;2603;Péry
+3162;2034;Peseux
+3163;1213;Petit-Lancy
+3164;1213;Petit-Lancy 1
+3165;1213;Petit-Lancy 2
+3166;2315;Petit-Martel
+3167;1041;Peyres-Possens
+3168;7312;Pfäfers
+3169;8118;Pfaffhausen
+3170;8808;Pfäffikon SZ
+3171;8330;Pfäffikon ZH
+3172;6264;Pfaffnau
+3173;5735;Pfeffikon LU
+3174;4148;Pfeffingen
+3175;8422;Pfungen
+3176;8505;Pfyn
+3177;6951;Piandera Paese
+3178;6582;Pianezzo
+3179;6695;Piano di Peccia
+3180;6579;Piazzogna
+3181;1722;Pierrafortscha
+3182;2542;Pieterlen
+3183;7443;Pignia
+3184;7156;Pigniu
+3185;6010;Pilatus Kulm
+3186;6776;Piotta
+3187;7111;Pitasch
+3188;8879;Pizolpark (Mels)
+3189;1174;Pizy
+3190;1716;Plaffeien
+3191;2536;Plagne
+3192;9494;Planken
+3193;1228;Plan-les-Ouates
+3194;1737;Plasselb
+3195;7185;Platta
+3196;9432;Platz (Walzenhausen)
+3197;7517;Plaun da Lej
+3198;2807;Pleigne
+3199;2953;Pleujouse
+3200;8889;Plons
+3201;3638;Pohlern
+3202;1041;Poliez-le-Grand
+3203;1041;Poliez-Pittet
+3204;6742;Pollegio
+3205;1318;Pompaples
+3206;1405;Pomy
+3207;1699;Pont (Veveyse)
+3208;1962;Pont-de-la-Morge (Sion)
+3209;6946;Ponte Capriasca
+3210;6996;Ponte Cremenaga
+3211;6988;Ponte Tresa
+3212;2733;Pontenet
+3213;1772;Ponthaux
+3214;1649;Pont-la-Ville
+3215;6711;Ponto Valentino
+3216;7504;Pontresina
+3217;2900;Porrentruy
+3218;2900;Porrentruy 1
+3219;2900;Porrentruy 1 Distribution
+3220;2900;Porrentruy 2
+3221;1699;Porsel
+3222;2562;Port
+3223;1568;Portalban
+3224;7423;Portein
+3225;6613;Porto Ronco
+3226;6948;Porza
+3227;1726;Posat
+3228;7742;Poschiavo
+3229;1725;Posieux
+3230;7063;Praden
+3231;7231;Pragg-Jenaz
+3232;1408;Prahins
+3233;1197;Prangins
+3234;1528;Praratoud
+3235;1724;Praroman-Le Mouret
+3236;6773;Prato (Leventina)
+3237;6694;Prato-Sornico
+3238;4133;Pratteln
+3239;4133;Pratteln 1
+3240;4133;Pratteln 2
+3241;4133;Pratteln 4
+3242;7415;Pratval
+3243;7424;Präz
+3244;1788;Praz (Vully)
+3245;1943;Praz-de-Fort
+3246;7482;Preda
+3247;6963;Pregassona
+3248;2515;Prêles
+3249;1324;Premier
+3250;6523;Preonzo
+3251;1243;Presinge
+3252;1028;Préverenges
+3253;1516;Prévondavaux
+3254;1682;Prévonloup
+3255;1746;Prez-vers-Noréaz
+3256;1677;Prez-vers-Siviriez
+3257;1008;Prilly
+3258;1662;Pringy
+3259;1624;Progens
+3260;1673;Promasens
+3261;7606;Promontogno
+3262;6526;Prosito
+3263;1428;Provence
+3264;1428;Provence-Mutrux
+3265;6711;Prugiasco
+3266;6823;Pugerna
+3267;1604;Puidoux
+3268;1604;Puidoux-Gare
+3269;1009;Pully
+3270;1241;Puplinge
+3271;6984;Pura
+3272;6989;Purasca
+3273;7228;Pusserein
+3274;7224;Putz
+3275;8883;Quarten
+3276;6572;Quartino
+3277;8878;Quinten
+3278;6777;Quinto
+3279;7172;Rabius
+3280;3271;Radelfingen b. Aarberg
+3281;8197;Rafz
+3282;6026;Rain
+3283;6061;Ramersberg
+3284;8487;Rämismühle
+3285;4719;Ramiswil
+3286;4433;Ramlinsburg
+3287;7556;Ramosch
+3288;3435;Ramsei
+3289;8262;Ramsen
+3290;6862;Rancate
+3291;1359;Rances
+3292;3928;Randa
+3293;3975;Randogne
+3294;3975;Randogne-Village
+3295;3439;Ranflüh
+3296;6577;Ranzo
+3297;8558;Raperswilen
+3298;3255;Rapperswil BE
+3299;8640;Rapperswil SG
+3300;8640;Rapperswil SG TD
+3301;8640;Rapperswil SG Zustellamt
+3302;3942;Raron
+3303;6651;Rasa
+3304;8352;Räterschen
+3305;1928;Ravoire
+3306;6491;Realp
+3307;7408;Realta
+3308;2765;Rebeuvelier
+3309;2717;Rebévelier
+3310;9445;Rebstein
+3311;4565;Recherswil
+3312;1718;Rechthalten
+3313;3966;Réchy
+3314;3998;Reckingen VS
+3315;2912;Réclère
+3316;2912;Réclère-Roche-d'Or
+3317;2732;Reconvilier
+3318;8158;Regensberg
+3319;8105;Regensdorf
+3320;8105;Regensdorf 1
+3321;8106;Regensdorf 2
+3322;9038;Rehetobel
+3323;3713;Reichenbach im Kandertal
+3324;8864;Reichenburg
+3325;6260;Reiden
+3326;6260;Reidermoos
+3327;4418;Reigoldswil
+3328;5734;Reinach AG
+3329;4153;Reinach BL
+3330;4153;Reinach BL 1
+3331;4153;Reinach BL 2
+3332;4919;Reisiswil
+3333;5057;Reitnau
+3334;8436;Rekingen AG
+3335;1617;Remaufens
+3336;5453;Remetschwil
+3337;5236;Remigen
+3338;2616;Renan BE
+3339;1020;Renens VD
+3340;1020;Renens VD 1
+3341;1020;Renens VD 2
+3342;6164;Rengg
+3343;1847;Rennaz
+3344;6285;Retschwil
+3345;6015;Reussbühl
+3346;6015;Reussbühl 1
+3347;6015;Reussbühl 2
+3348;9411;Reute AR
+3349;9517;Reuti b. Weinfelden
+3350;3647;Reutigen
+3351;8404;Reutlingen (Winterthur)
+3352;1128;Reverolle
+3353;7403;Rhäzüns
+3354;8462;Rheinau
+3355;9424;Rheineck
+3356;4310;Rheinfelden
+3357;4310;Rheinfelden 1
+3358;4310;Rheinfelden 2
+3359;8256;Rheinklingen
+3360;4338;Rheinsulz
+3361;1632;Riaz
+3362;6595;Riazzino
+3363;6263;Richenthal
+3364;3078;Richigen
+3365;8805;Richterswil
+3366;8726;Ricken SG
+3367;5634;Rickenbach AG
+3368;6432;Rickenbach b. Schwyz
+3369;9532;Rickenbach b. Wil
+3370;8545;Rickenbach b. Winterthur
+3371;4462;Rickenbach BL
+3372;6221;Rickenbach LU
+3373;4613;Rickenbach SO
+3374;8544;Rickenbach-Attikon
+3375;1908;Riddes
+3376;3724;Ried (Frutigen)
+3377;6431;Ried (Muotathal)
+3378;3216;Ried b. Kerzers
+3379;3911;Ried-Brig
+3380;8739;Rieden SG
+3381;3987;Riederalp
+3382;8750;Riedern
+3383;4533;Riedholz
+3384;8616;Riedikon
+3385;3986;Ried-Mörel
+3386;3159;Riedstätt
+3387;8586;Riedt b. Erlen
+3388;3475;Riedtwil
+3389;4125;Riehen
+3390;4125;Riehen 1
+3391;4125;Riehen 2
+3392;7128;Riein
+3393;6453;Riemenstalden
+3394;8438;Rietheim
+3395;1097;Riex
+3396;3156;Riffenmatt
+3397;8911;Rifferswil
+3398;3132;Riggisberg
+3399;6356;Rigi Kaltbad
+3400;6410;Rigi Klösterli
+3401;6410;Rigi Kulm
+3402;6410;Rigi Scheidegg
+3403;6410;Rigi Staffel
+3404;4853;Riken AG
+3405;8486;Rikon im Tösstal
+3406;9234;Rindal
+3407;3852;Ringgenberg BE
+3408;3656;Ringoldswil
+3409;5223;Riniken
+3410;7463;Riom
+3411;6343;Risch
+3412;3981;Ritzingen
+3413;6826;Riva S. Vitale
+3414;1812;Rivaz
+3415;6671;Riveo
+3416;6802;Rivera
+3417;3206;Rizenbach
+3418;6599;Robasacco
+3419;1852;Roche VD
+3420;2912;Roche-d'Or
+3421;2203;Rochefort
+3422;2762;Roches BE
+3423;2907;Rocourt
+3424;7415;Rodels
+3425;4118;Rodersdorf
+3426;6772;Rodi-Fiesso
+3427;2814;Roggenburg
+3428;6265;Roggliswil
+3429;4914;Roggwil BE
+3430;9325;Roggwil TG
+3431;5032;Rohr AG
+3432;4655;Rohr b. Olten
+3433;4938;Rohrbach b. Huttwil
+3434;4938;Rohrbachgraben
+3435;6132;Rohrmatt
+3436;1180;Rolle
+3437;1323;Romainmôtier
+3438;1423;Romairon
+3439;1032;Romanel-sur-Lausanne
+3440;1122;Romanel-sur-Morges
+3441;1626;Romanens
+3442;8590;Romanshorn
+3443;8590;Romanshorn 1
+3444;8590;Romanshorn 2
+3445;8590;Romanshorn 3
+3446;5022;Rombach
+3447;6027;Römerswil LU
+3448;2538;Romont BE
+3449;1680;Romont FR
+3450;1681;Romont FR Sorties
+3451;6113;Romoos
+3452;7454;Rona
+3453;6622;Ronco sopra Ascona
+3454;7430;Rongellen
+3455;6037;Root
+3456;1088;Ropraz
+3457;8427;Rorbas
+3458;8427;Rorbas-Freienstein
+3459;9400;Rorschach
+3460;9400;Rorschach Ost
+3461;9400;Rorschach Zustellamt
+3462;9400;Rorschacherberg
+3463;4244;Röschenz
+3464;1754;Rosé
+3465;3860;Rosenlaui
+3466;6548;Rossa
+3467;2842;Rossemaison
+3468;1513;Rossenges
+3469;1728;Rossens FR
+3470;1554;Rossens VD
+3471;3204;Rosshäusern
+3472;1836;Rossinière
+3473;9512;Rossrüti
+3474;6760;Rossura
+3475;3913;Rosswald
+3476;3373;Röthenbach Herzogenbuchse
+3477;3538;Röthenbach im Emmental
+3478;7405;Rothenbrunnen
+3479;6023;Rothenburg
+3480;4467;Rothenfluh
+3481;9518;Rothenhausen
+3482;6418;Rothenthurm
+3483;3855;Rothorn Kulm
+3484;4852;Rothrist
+3485;3901;Rothwald
+3486;6343;Rotkreuz
+3487;8919;Rottenschwil
+3488;1838;Rougemont
+3489;6535;Roveredo GR
+3490;6957;Roveredo TI
+3491;6821;Rovio
+3492;1463;Rovray
+3493;3113;Rubigen
+3494;3437;Rüderswil
+3495;8455;Rüdlingen
+3496;8465;Rudolfingen
+3497;8964;Rudolfstetten
+3498;3422;Rüdtligen
+3499;1671;Rue
+3500;3474;Rüedisbach
+3501;6017;Rüediswil
+3502;3088;Rüeggisberg
+3503;3417;Rüegsau
+3504;3415;Rüegsauschachen
+3505;3418;Rüegsbach
+3506;7189;Rueras
+3507;8735;Rüeterswil
+3508;7156;Rueun
+3509;1414;Rueyres
+3510;1542;Rueyres-les-Prés
+3511;1695;Rueyres-St-Laurent
+3512;1626;Rueyres-Treyfayes
+3513;5235;Rüfenach AG
+3514;3075;Rüfenacht BE
+3515;8723;Rufi
+3516;9491;Ruggell
+3517;3472;Rumendingen
+3518;8439;Rümikon AG
+3519;4539;Rumisberg
+3520;8153;Rümlang
+3521;3128;Rümligen
+3522;4444;Rümlingen
+3523;4497;Rünenberg
+3524;5102;Rupperswil
+3525;3251;Ruppoldsried
+3526;3153;Rüschegg Gambach
+3527;3154;Rüschegg Graben
+3528;3154;Rüschegg Heubach
+3529;7154;Ruschein
+3530;8803;Rüschlikon
+3531;8332;Russikon
+3532;1281;Russin
+3533;6611;Russo
+3534;1773;Russy
+3535;6017;Ruswil
+3536;9464;Rüthi SG
+3537;3295;Rüti b. Büren
+3538;3421;Rüti b. Lyssach
+3539;3099;Rüti b. Riggisberg
+3540;8782;Rüti GL
+3541;8630;Rüti ZH
+3542;5406;Rütihof
+3543;6441;Rütli
+3544;4933;Rütschelen
+3545;8471;Rutschwil-Dägerlen
+3546;4522;Rüttenen
+3547;6977;Ruvigliana
+3548;6592;S. Antonino
+3549;6583;S. Antonio (Val Morobbia)
+3550;7174;S. Benedetg
+3551;6565;S. Bernardino
+3552;7741;S. Carlo (Poschiavo)
+3553;6690;S. Carlo (Val Bavona)
+3554;6781;S. Gottardo
+3555;6575;S. Nazzaro
+3556;6854;S. Pietro
+3557;6534;S. Vittore
+3558;3792;Saanen
+3559;3777;Saanenmöser
+3560;3905;Saas Almagell
+3561;3908;Saas Balen
+3562;3906;Saas Fee
+3563;3910;Saas Grund
+3564;7247;Saas im Prättigau
+3565;6072;Sachseln
+3566;5745;Safenwil
+3567;7107;Safien Platz
+3568;2553;Safnern
+3569;6831;Sagno
+3570;7152;Sagogn
+3571;2732;Saicourt
+3572;2726;Saignelégier
+3573;1913;Saillon
+3574;6954;Sala Capriasca
+3575;8493;Saland
+3576;1585;Salavaux
+3577;8507;Salen-Reutenen
+3578;8268;Salenstein
+3579;1625;Sâles (Gruyère)
+3580;9465;Salez
+3581;3970;Salgesch
+3582;1991;Salins
+3583;8599;Salmsach
+3584;6872;Salorino
+3585;7462;Salouf
+3586;1922;Salvan
+3587;1794;Salvenach
+3588;7503;Samedan
+3589;7563;Samnaun Dorf
+3590;7562;Samnaun-Compatsch
+3591;8833;Samstagern
+3592;1738;Sangernboden
+3593;7057;Sapün
+3594;7320;Sargans
+3595;3044;Säriswil
+3596;5614;Sarmenstorf
+3597;7423;Sarn
+3598;6060;Sarnen
+3599;1948;Sarreyer
+3600;1683;Sarzens
+3601;1534;Sassel
+3602;1242;Satigny
+3603;6417;Sattel
+3604;1189;Saubraz
+3605;2026;Sauges-près-St-Aubin
+3606;2873;Saulcy
+3607;2732;Saules BE
+3608;2065;Savagnier
+3609;1965;Savièse
+3610;1073;Savigny
+3611;7460;Savognin
+3612;9468;Sax
+3613;3813;Saxeten
+3614;1907;Saxon
+3615;7202;Says
+3616;6951;Scareglia
+3617;9494;Schaan
+3618;9486;Schaanwald
+3619;9112;Schachen b. Herisau
+3620;9414;Schachen b. Reute
+3621;6105;Schachen LU
+3622;8200;Schaffhausen
+3623;8201;Schaffhausen
+3624;8202;Schaffhausen
+3625;8203;Schaffhausen
+3626;8204;Schaffhausen
+3627;8205;Schaffhausen
+3628;8206;Schaffhausen
+3629;8207;Schaffhausen
+3630;8208;Schaffhausen
+3631;8200;Schaffhausen 1 Ausgabe
+3632;3415;Schafhausen im Emmental
+3633;5503;Schafisheim
+3634;3314;Schalunen
+3635;7525;S-chanf
+3636;6197;Schangnau
+3637;8718;Schänis
+3638;7412;Scharans
+3639;6196;Schärlig
+3640;3722;Scharnachtal
+3641;6467;Schattdorf
+3642;7270;Schatzalp (Davos)
+3643;7419;Scheid
+3644;9488;Schellenberg
+3645;2827;Schelten
+3646;6214;Schenkon
+3647;5246;Scherz
+3648;8596;Scherzingen
+3649;3305;Scheunen
+3650;2556;Scheuren
+3651;7220;Schiers
+3652;8834;Schindellegi
+3653;5116;Schinznach Bad
+3654;5107;Schinznach Dorf
+3655;7168;Schlans
+3656;8252;Schlatt b. Diessenhofen
+3657;8418;Schlatt b. Winterthur
+3658;8255;Schlattingen
+3659;8165;Schleinikon
+3660;8226;Schleitheim
+3661;6231;Schlierbach
+3662;8952;Schlieren
+3663;8952;Schlieren SB Lilie-Zentru
+3664;3098;Schliern b. Köniz
+3665;5044;Schlossrued
+3666;3082;Schlosswil
+3667;7151;Schluein
+3668;8716;Schmerikon
+3669;3464;Schmidigen-Mühleweg
+3670;8495;Schmidrüti
+3671;9563;Schmidshof
+3672;5046;Schmiedrued
+3673;7493;Schmitten (Albula)
+3674;3185;Schmitten FR
+3675;7130;Schnaus
+3676;5425;Schneisingen
+3677;3253;Schnottwil
+3678;8581;Schocherswil
+3679;8165;Schöfflisdorf
+3680;5040;Schöftland
+3681;3321;Schönbühl Einkaufszentrum
+3682;3322;Schönbühl-Urtenen
+3683;8585;Schönenbaumgarten
+3684;9215;Schönenberg an der Thur
+3685;8824;Schönenberg ZH
+3686;4124;Schönenbuch
+3687;9105;Schönengrund
+3688;5012;Schönenwerd
+3689;6288;Schongau
+3690;8577;Schönholzerswilen
+3691;3778;Schönried
+3692;6247;Schötz
+3693;8862;Schübelbach
+3694;7228;Schuders
+3695;3535;Schüpbach
+3696;4325;Schupfart
+3697;3054;Schüpfen
+3698;6170;Schüpfheim
+3699;4352;Schwaderloch
+3700;2556;Schwadernau
+3701;3657;Schwanden (Sigriswil)
+3702;3855;Schwanden b. Brienz
+3703;8762;Schwanden GL
+3704;3433;Schwanden im Emmental
+3705;8762;Schwändi b. Schwanden
+3706;4953;Schwarzenbach (Huttwil)
+3707;6215;Schwarzenbach Beromünster
+3708;9536;Schwarzenbach SG
+3709;6103;Schwarzenberg LU
+3710;3150;Schwarzenburg
+3711;3616;Schwarzenegg
+3712;4911;Schwarzhäusern
+3713;1711;Schwarzsee
+3714;9223;Schweizersholz
+3715;9103;Schwellbrunn
+3716;9057;Schwende
+3717;3757;Schwenden im Diemtigtal
+3718;7325;Schwendi im Weisstannenta
+3719;3624;Schwendibach
+3720;8603;Schwerzenbach
+3721;6430;Schwyz
+3722;6831;Scudellate
+3723;7550;Scuol
+3724;1554;Sédeilles
+3725;7188;Sedrun
+3726;3365;Seeberg
+3727;3267;Seedorf BE
+3728;6462;Seedorf UR
+3729;2747;Seehof
+3730;6377;Seelisberg
+3731;5707;Seengen
+3732;4206;Seewen SO
+3733;6423;Seewen SZ
+3734;7212;Seewis Dorf
+3735;3136;Seftigen
+3736;7186;Segnas
+3737;1525;Seigneux
+3738;1474;Seiry
+3739;2888;Seleute
+3740;3981;Selkingen
+3741;6545;Selma
+3742;4411;Seltisberg
+3743;2545;Selzach
+3744;1933;Sembrancher
+3745;6514;Sementina
+3746;6714;Semione
+3747;6204;Sempach Stadt
+3748;6203;Sempach Station
+3749;1623;Semsales
+3750;1118;Senarclens
+3751;1724;Senèdes
+3752;8482;Sennhof (Winterthur)
+3753;9466;Sennwald
+3754;7554;Sent
+3755;5703;Seon
+3756;6836;Serfontana
+3757;1355;Sergey
+3758;7249;Serneus
+3759;7249;Serneus Station
+3760;6867;Serpiano
+3761;1077;Servion
+3762;6832;Seseglio
+3763;6997;Sessa
+3764;8472;Seuzach
+3765;1541;Sévaz
+3766;9475;Sevelen
+3767;1141;Sévery
+3768;7127;Sevgein
+3769;7742;Sfazù
+3770;7157;Siat
+3771;8225;Siblingen
+3772;8854;Siebnen
+3773;8573;Siegershausen
+3774;3960;Sierre
+3775;3961;Sierre Sorties
+3776;5301;Siggenthal Station
+3777;6019;Sigigen
+3778;6806;Sigirino
+3779;8439;Siglistorf
+3780;3534;Signau
+3781;6951;Signôra
+3782;1274;Signy
+3783;3655;Sigriswil
+3784;8944;Sihlbrugg Dorf
+3785;8944;Sihlbrugg Station
+3786;6473;Silenen
+3787;7411;Sils im Domleschg
+3788;7515;Sils/Segl Baselgia
+3789;7514;Sils/Segl Maria
+3790;7513;Silvaplana
+3791;3901;Simplon Dorf
+3792;3901;Simplon Hospiz
+3793;5643;Sins
+3794;1950;Sion
+3795;1951;Sion
+3796;1950;Sion 1
+3797;1950;Sion 1 Dist Lettres
+3798;1950;Sion 2
+3799;1950;Sion 3
+3800;1950;Sion 4
+3801;1951;Sion DT
+3802;1951;Sion RCP
+3803;1961;Sion Sorties
+3804;8370;Sirnach
+3805;2577;Siselen BE
+3806;6452;Sisikon
+3807;4450;Sissach
+3808;4334;Sisseln AG
+3809;8589;Sitterdorf
+3810;1997;Siviez
+3811;1678;Siviriez
+3812;6562;Soazza
+3813;6749;Sobrio
+3814;7610;Soglio
+3815;6600;Solduno
+3816;4500;Solothurn
+3817;4501;Solothurn
+3818;4502;Solothurn
+3819;4503;Solothurn
+3820;4504;Solothurn
+3821;4500;Solothurn 1
+3822;4500;Solothurn 1 Ausgabe
+3823;6872;Somazzo
+3824;6674;Someo
+3825;1688;Sommentier
+3826;8580;Sommeri
+3827;2605;Sonceboz-Sombeval
+3828;6637;Sonogno
+3829;8563;Sonterswil
+3830;6968;Sonvico
+3831;2615;Sonvilier
+3832;8762;Sool
+3833;1286;Soral
+3834;6174;Sörenberg
+3835;6924;Sorengo
+3836;1642;Sorens
+3837;2716;Sornetan
+3838;2736;Sorvilier
+3839;1062;Sottens
+3840;2887;Soubey
+3841;2748;Souboz-Les Ecorcheresses
+3842;2864;Soulce
+3843;2805;Soyhières
+3844;9042;Speicher
+3845;9037;Speicherschwendi
+3846;3095;Spiegel b. Bern
+3847;3700;Spiez
+3848;3700;Spiezmoos
+3849;3700;Spiezwiler
+3850;6464;Spiringen
+3851;7435;Splügen
+3852;8957;Spreitenbach
+3853;6611;Spruga
+3854;1713;St. Antoni
+3855;7246;St. Antönien
+3856;6212;St. Erhard
+3857;9000;St. Gallen
+3858;9001;St. Gallen
+3859;9003;St. Gallen
+3860;9004;St. Gallen
+3861;9006;St. Gallen
+3862;9007;St. Gallen
+3863;9008;St. Gallen
+3864;9009;St. Gallen
+3865;9010;St. Gallen
+3866;9011;St. Gallen
+3867;9012;St. Gallen
+3868;9013;St. Gallen
+3869;9014;St. Gallen
+3870;9015;St. Gallen
+3871;9016;St. Gallen
+3872;9000;St. Gallen 1 Briefausgabe
+3873;9028;St. Gallen Cornelia Versa
+3874;9001;St. Gallen KPD
+3875;9026;St. Gallen Künzler AG
+3876;9027;St. Gallen Medicenter
+3877;9029;St. Gallen Sonderdienste
+3878;9001;St. Gallen TD
+3879;9020;St. Gallen Verarbeitungsz
+3880;8735;St. Gallenkappel
+3881;3936;St. German
+3882;9543;St. Margarethen TG
+3883;9430;St. Margrethen SG
+3884;7313;St. Margrethenberg
+3885;7116;St. Martin (Lugnez)
+3886;7500;St. Moritz
+3887;7500;St. Moritz 1
+3888;7500;St. Moritz 3
+3889;3924;St. Niklaus VS
+3890;6005;St. Niklausen LU
+3891;6066;St. Niklausen OW
+3892;4421;St. Pantaleon
+3893;9225;St. Pelagiberg
+3894;7028;St. Peter
+3895;9127;St. Peterzell
+3896;1736;St. Silvester
+3897;3772;St. Stephan
+3898;4915;St. Urban
+3899;1717;St. Ursen
+3900;7536;Sta. Maria im Münstertal
+3901;6541;Sta. Maria in Calanca
+3902;9422;Staad SG
+3903;6855;Stabio
+3904;9320;Stachen
+3905;8404;Stadel (Winterthur)
+3906;8174;Stadel b. Niederglatt
+3907;8712;Stäfa
+3908;5053;Staffelbach
+3909;6063;Stalden (Sarnen)
+3910;3922;Stalden VS
+3911;3933;Staldenried
+3912;8143;Stallikon
+3913;7605;Stampa
+3914;6370;Stans
+3915;6362;Stansstad
+3916;4656;Starrkirch-Wil
+3917;1566;St-Aubin FR
+3918;2024;St-Aubin NE
+3919;5603;Staufen
+3920;1041;St-Barthélemy VD
+3921;2072;St-Blaise
+3922;2874;St-Brais
+3923;1264;St-Cergue
+3924;1064;St-Cierges
+3925;3824;Stechelberg
+3926;8266;Steckborn
+3927;1450;Ste-Croix
+3928;3612;Steffisburg
+3929;3613;Steffisburg
+3930;8496;Steg im Tösstal
+3931;3940;Steg VS
+3932;9503;Stehrenberg
+3933;4332;Stein AG
+3934;8260;Stein am Rhein
+3935;9063;Stein AR
+3936;9655;Stein SG
+3937;9323;Steinach
+3938;9314;Steinebrunn
+3939;6422;Steinen
+3940;6416;Steinerberg
+3941;3995;Steinhaus
+3942;6312;Steinhausen
+3943;4556;Steinhof SO
+3944;6114;Steinhuserberg
+3945;8162;Steinmaur
+3946;7226;Stels
+3947;8499;Sternenberg
+3948;5608;Stetten AG
+3949;8234;Stetten SH
+3950;9507;Stettfurt
+3951;3066;Stettlen
+3952;1261;St-George
+3953;1898;St-Gingolph
+3954;7459;Stierva
+3955;5233;Stilli
+3956;2610;St-Imier
+3957;3961;St-Jean VS
+3958;1806;St-Légier
+3959;1806;St-Légier-La Chiésaz
+3960;1958;St-Léonard
+3961;1176;St-Livres
+3962;3961;St-Luc
+3963;1609;St-Martin FR
+3964;2055;St-Martin NE
+3965;1969;St-Martin VS
+3966;1890;St-Maurice
+3967;1891;St-Maurice Sorties
+3968;3632;Stocken
+3969;6433;Stoos SZ
+3970;1187;St-Oyens
+3971;1956;St-Pierre-de-Clages
+3972;1162;St-Prex
+3973;7558;Strada
+3974;4802;Strengelbach
+3975;8514;Strohwilen
+3976;1813;St-Saphorin (Lavaux)
+3977;1113;St-Saphorin-sur-Morges
+3978;1975;St-Séverin
+3979;2123;St-Sulpice NE
+3980;1025;St-Sulpice VD
+3981;1855;St-Triphon
+3982;2557;Studen BE
+3983;8845;Studen SZ
+3984;7482;Stugl/Stuls
+3985;2882;St-Ursanne
+3986;4655;Stüsslingen
+3987;3262;Suberg
+3988;4553;Subingen
+3989;1433;Suchy
+3990;3618;Süderen
+3991;7434;Sufers
+3992;1786;Sugiez
+3993;1043;Sugnens
+3994;5034;Suhr
+3995;8583;Sulgen
+3996;8585;Sulgen Ausgänge
+3997;1036;Sullens
+3998;4339;Sulz AG
+3999;6284;Sulz LU
+4000;8614;Sulzbach
+4001;3454;Sumiswald
+4002;7421;Summaprada
+4003;7175;Sumvitg
+4004;3800;Sundlauenen
+4005;7456;Sur
+4006;7472;Surava
+4007;7115;Surcasti
+4008;7138;Surcuolm
+4009;7148;Surin
+4010;1528;Surpierre
+4011;7173;Surrein
+4012;6210;Sursee
+4013;1437;Suscévaz
+4014;7542;Susch
+4015;3952;Susten
+4016;2572;Sutz
+4017;1510;Syens
+4018;1712;Tafers
+4019;8307;Tagelswangen
+4020;5522;Tägerig
+4021;9554;Tägerschen
+4022;3502;Tägertschi
+4023;8274;Tägerwilen
+4024;7015;Tamins
+4025;8632;Tann
+4026;1295;Tannay
+4027;8824;Tanne b. Wädenswil
+4028;7553;Tarasp
+4029;7422;Tartar
+4030;1180;Tartegnin
+4031;3929;Täsch
+4032;2575;Täuffelen
+4033;7162;Tavanasa
+4034;2710;Tavannes
+4035;6807;Taverne
+4036;4492;Tecknau
+4037;5306;Tegerfelden
+4038;6652;Tegna
+4039;6598;Tenero
+4040;7106;Tenna
+4041;4456;Tenniken
+4042;5617;Tennwil
+4043;1734;Tentlingen
+4044;3912;Termen
+4045;6998;Termine
+4046;1820;Territet-Veytaux
+4047;7116;Tersnaus
+4048;6950;Tesserete
+4049;9053;Teufen AR
+4050;8428;Teufen ZH
+4051;5723;Teufenthal AG
+4052;3623;Teuffenthal b. Thun
+4053;9425;Thal
+4054;5112;Thalheim AG
+4055;8478;Thalheim an der Thur
+4056;7109;Thalkirch
+4057;8800;Thalwil
+4058;8801;Thalwil Fächer
+4059;8240;Thayngen
+4060;8484;Theilingen
+4061;4106;Therwil
+4062;2075;Thielle-Wavre
+4063;3634;Thierachern
+4064;1410;Thierrens
+4065;1226;Thônex
+4066;3367;Thörigen
+4067;3174;Thörishaus
+4068;3600;Thun
+4069;3601;Thun
+4070;3602;Thun
+4071;3603;Thun
+4072;3604;Thun
+4073;3605;Thun
+4074;3606;Thun
+4075;3607;Thun
+4076;3608;Thun
+4077;3600;Thun 2
+4078;3600;Thun 2 Briefausgabe
+4079;3602;Thun 2 Militärpost
+4080;3600;Thun TD
+4081;8512;Thundorf
+4082;4922;Thunstetten
+4083;4441;Thürnen
+4084;7430;Thusis
+4085;7431;Thusis Ausgänge
+4086;1988;Thyon
+4087;1988;Thyon-Les Collons
+4088;7450;Tiefencastel
+4089;7453;Tinizong
+4090;4425;Titterten
+4091;9555;Tobel
+4092;3125;Toffen
+4093;1131;Tolochenaz
+4094;8577;Toos
+4095;3923;Törbel
+4096;1899;Torgon
+4097;1748;Torny-le-Grand
+4098;6717;Torre
+4099;6808;Torricella
+4100;3456;Trachselwald
+4101;8840;Trachslau
+4102;2720;Tramelan
+4103;7417;Trans
+4104;8219;Trasadingen
+4105;2105;Travers
+4106;3226;Treiten
+4107;1270;Trélex
+4108;6865;Tremona
+4109;1552;Trey
+4110;1436;Treycovagnes
+4111;1626;Treyfayes
+4112;1488;Treytorrens (Payerne)
+4113;1733;Treyvaux
+4114;8273;Triboltingen
+4115;6234;Triengen
+4116;1929;Trient
+4117;9495;Triesen
+4118;9497;Triesenberg
+4119;4632;Trimbach
+4120;7203;Trimmis
+4121;3083;Trimstein
+4122;7014;Trin
+4123;7016;Trin Mulin
+4124;7199;Trin Station
+4125;9043;Trogen
+4126;9043;Trogen Kinderdorf
+4127;1256;Troinex
+4128;1872;Troistorrents
+4129;3556;Trub
+4130;9477;Trübbach
+4131;3555;Trubschachen
+4132;8466;Trüllikon
+4133;7166;Trun
+4134;8467;Truttikon
+4135;7428;Tschappina
+4136;4576;Tscheppach
+4137;8881;Tscherlach
+4138;7064;Tschiertschen
+4139;7532;Tschierv
+4140;3656;Tschingel ob Gunten
+4141;7559;Tschlin
+4142;3233;Tschugg
+4143;9327;Tübach
+4144;8856;Tuggen
+4145;7418;Tumegl/Tomils
+4146;3781;Turbach
+4147;8488;Turbenthal
+4148;5300;Turgi
+4149;3946;Turtmann
+4150;2512;Tüscherz-Alfermée
+4151;9546;Tuttwil
+4152;2513;Twann
+4153;6044;Udligenswil
+4154;3182;Ueberstorf
+4155;3635;Uebeschi
+4156;5028;Ueken
+4157;8713;Uerikon
+4158;4813;Uerkheim
+4159;8537;Uerschhausen
+4160;8926;Uerzlikon
+4161;8524;Uesslingen
+4162;3138;Uetendorf
+4163;8707;Uetikon am See
+4164;8138;Uetliberg
+4165;8738;Uetliburg SG
+4166;3043;Uettligen
+4167;5619;Uezwil
+4168;6253;Uffikon
+4169;6153;Ufhusen
+4170;8248;Uhwiesen
+4171;8142;Uitikon Waldegg
+4172;9631;Ulisbach
+4173;3214;Ulmiz
+4174;3988;Ulrichen
+4175;5222;Umiken
+4176;2863;Undervelier
+4177;6314;Unterägeri
+4178;3857;Unterbach BE
+4179;3944;Unterbäch VS
+4180;5224;Unterbözberg
+4181;9033;Untereggen
+4182;5424;Unterehrendingen
+4183;3948;Unterems
+4184;5305;Unterendingen
+4185;8103;Unterengstringen
+4186;5035;Unterentfelden
+4187;8508;Unterhörstetten
+4188;8842;Unteriberg
+4189;5726;Unterkulm
+4190;3614;Unterlangenegg
+4191;8918;Unterlunkhofen
+4192;4588;Unterramsern
+4193;6465;Unterschächen
+4194;8252;Unterschlatt
+4195;3800;Unterseen
+4196;5417;Untersiggenthal
+4197;8476;Unterstammheim
+4198;4916;Untersteckholz
+4199;8882;Unterterzen
+4200;7204;Untervaz
+4201;7201;Untervaz Bahnhof
+4202;9657;Unterwasser
+4203;7114;Uors (Lumnezia)
+4204;8902;Urdorf
+4205;7427;Urmein
+4206;9107;Urnäsch
+4207;8751;Urnerboden
+4208;4937;Ursenbach
+4209;1412;Ursins
+4210;6282;Urswil
+4211;1670;Ursy
+4212;3322;Urtenen
+4213;8610;Uster
+4214;8610;Uster 1
+4215;8612;Uster 2
+4216;8613;Uster 3
+4217;3628;Uttigen
+4218;8592;Uttwil
+4219;3427;Utzenstorf
+4220;3068;Utzigen
+4221;8730;Uznach
+4222;8740;Uznach Vögele Versandhaus
+4223;9240;Uzwil
+4224;6833;Vacallo
+4225;7314;Vadura
+4226;9490;Vaduz
+4227;6947;Vaglio
+4228;6575;Vairano
+4229;2042;Valangin
+4230;7077;Valbella
+4231;7535;Valchava
+4232;1873;Val-d'Illiez
+4233;7122;Valendas
+4234;7317;Valens
+4235;1441;Valeyres-sous-Montagny
+4236;1358;Valeyres-sous-Rances
+4237;1412;Valeyres-sous-Ursins
+4238;1586;Vallamand
+4239;1565;Vallon
+4240;1337;Vallorbe
+4241;7132;Vals
+4242;7213;Valzeina
+4243;1253;Vandoeuvres
+4244;3969;Varen
+4245;6777;Varenzo
+4246;7314;Vasön
+4247;7315;Vättis
+4248;7146;Vattiz
+4249;1675;Vauderens
+4250;2537;Vauffelin
+4251;1423;Vaugondry
+4252;1325;Vaulion
+4253;1627;Vaulruz
+4254;2028;Vaumarcus
+4255;1126;Vaux-sur-Morges
+4256;7082;Vaz/Obervaz
+4257;7144;Vella
+4258;2764;Vellerat
+4259;5106;Veltheim AG
+4260;2943;Vendlincourt
+4261;3973;Venthône
+4262;1936;Verbier
+4263;1936;Verbier 1
+4264;1936;Verbier 2
+4265;3967;Vercorin
+4266;6538;Verdabbio
+4267;6651;Verdasio
+4268;6611;Vergeletto
+4269;2829;Vermes
+4270;1961;Vernamiège
+4271;6992;Vernate
+4272;1904;Vernayaz
+4273;1214;Vernier
+4274;1891;Vérossaz
+4275;7104;Versam
+4276;7104;Versam Station
+4277;1551;Vers-chez-Perrin
+4278;6653;Verscio
+4279;1947;Versegères
+4280;1864;Vers-l'Eglise
+4281;1290;Versoix
+4282;1222;Vésenaz
+4283;1483;Vesin
+4284;1234;Vessy
+4285;1963;Vétroz
+4286;1800;Vevey
+4287;1800;Vevey 1
+4288;1800;Vevey 1 Dist Lettres
+4289;1800;Vevey 2
+4290;1811;Vevey Nestlé concours
+4291;1981;Vex
+4292;3968;Veyras
+4293;1255;Veyrier
+4294;1993;Veysonnaz
+4295;1820;Veytaux
+4296;6943;Vezia
+4297;6938;Vezio
+4298;7747;Viano
+4299;1267;Vich
+4300;1267;Vich-Coinsins
+4301;6921;Vico Morcote
+4302;7603;Vicosoprano
+4303;2824;Vicques
+4304;6962;Viganello
+4305;7147;Vignogn
+4306;2063;Vilars NE
+4307;6781;Villa Bedretto
+4308;6966;Villa Luganese
+4309;1679;Villaraboud
+4310;1652;Villarbeney
+4311;1831;Villard-sur-Chamby
+4312;1583;Villarepos
+4313;1694;Villargiroud
+4314;1685;Villariaz
+4315;1691;Villarimboud
+4316;1695;Villarlod
+4317;1556;Villars-Bramard
+4318;1423;Villars-Burquin
+4319;1743;Villarsel-le-Gibloux
+4320;1723;Villarsel-sur-Marly
+4321;1404;Villars-Epeney
+4322;1694;Villarsiviriaux
+4323;1515;Villars-le-Comte
+4324;1584;Villars-le-Grand
+4325;1041;Villars-le-Terroir
+4326;1307;Villars-Lussery
+4327;1061;Villars-Mendraz
+4328;1443;Villars-sous-Champvent
+4329;1666;Villars-sous-Mont
+4330;1138;Villars-sous-Yens
+4331;1029;Villars-Ste-Croix
+4332;2903;Villars-sur-Fontenais
+4333;1752;Villars-sur-Glâne
+4334;1752;Villars-sur-Glâne 1
+4335;1752;Villars-sur-Glâne 2
+4336;1884;Villars-sur-Ollon
+4337;1058;Villars-Tiercelin
+4338;1651;Villarvolard
+4339;1555;Villarzel
+4340;1690;Villaz-St-Pierre
+4341;1527;Villeneuve FR
+4342;1844;Villeneuve VD
+4343;2613;Villeret
+4344;2057;Villiers
+4345;5234;Villigen
+4346;5232;Villigen PSI
+4347;5612;Villmergen
+4348;5213;Villnachern
+4349;7324;Vilters
+4350;3234;Vinelz
+4351;1184;Vinzel
+4352;1895;Vionnaz
+4353;6574;Vira (Gambarogno)
+4354;3930;Visp
+4355;3932;Visperterminen
+4356;3961;Vissoie
+4357;6354;Vitznau
+4358;7557;Vnà
+4359;6632;Vogorno
+4360;8459;Volken
+4361;8604;Volketswil
+4362;1941;Vollèges
+4363;4803;Vordemwald
+4364;8857;Vorderthal
+4365;1896;Vouvry
+4366;7149;Vrin
+4367;1628;Vuadens
+4368;1674;Vuarmarens
+4369;1418;Vuarrens
+4370;1086;Vucherens
+4371;1302;Vufflens-la-Ville
+4372;1134;Vufflens-le-Château
+4373;1431;Vugelles-La Mothe
+4374;1502;Vuibroye
+4375;1641;Vuippens
+4376;1486;Vuissens
+4377;1687;Vuisternens-devant-Romont
+4378;1696;Vuisternens-en-Ogoz
+4379;1445;Vuiteboeuf
+4380;1085;Vulliens
+4381;1115;Vullierens
+4382;7552;Vulpera
+4383;3084;Wabern
+4384;8820;Wädenswil
+4385;8646;Wagen
+4386;8258;Wagenhausen
+4387;4246;Wahlen b. Laufen
+4388;3046;Wahlendorf
+4389;6318;Walchwil
+4390;9044;Wald AR
+4391;8636;Wald ZH
+4392;5047;Walde AG
+4393;8727;Walde SG
+4394;3802;Waldegg (Beatenberg)
+4395;4437;Waldenburg
+4396;8564;Wäldi
+4397;9205;Waldkirch
+4398;9104;Waldstatt
+4399;8880;Walenstadt
+4400;8881;Walenstadt Ausgänge
+4401;8881;Walenstadtberg
+4402;3512;Walkringen
+4403;4323;Wallbach
+4404;3206;Wallenbuch
+4405;1784;Wallenried
+4406;8360;Wallenwil
+4407;8304;Wallisellen
+4408;8316;Wallisellen Yves Rocher S
+4409;4705;Walliswil b. Niederbipp
+4410;4706;Walliswil b. Wangen
+4411;3272;Walperswil
+4412;8468;Waltalingen
+4413;7158;Waltensburg/Vuorz
+4414;5622;Waltenschwil
+4415;4942;Walterswil BE
+4416;5746;Walterswil SO
+4417;9428;Walzenhausen
+4418;3615;Wangelen
+4419;4705;Wangen an der Aare
+4420;8602;Wangen b. Dübendorf
+4421;4612;Wangen b. Olten
+4422;8855;Wangen SZ
+4423;3374;Wangenried
+4424;9545;Wängi
+4425;7323;Wangs
+4426;3372;Wanzwil
+4427;9478;Wartau
+4428;8532;Warth
+4429;3457;Wasen im Emmental
+4430;6484;Wassen UR
+4431;8195;Wasterkingen
+4432;8105;Watt
+4433;3135;Wattenwil
+4434;9630;Wattwil
+4435;6242;Wauwil
+4436;8571;Weerswilen
+4437;8872;Weesen
+4438;4317;Wegenstetten
+4439;6353;Weggis
+4440;8433;Weiach
+4441;3462;Weier im Emmental
+4442;8570;Weinfelden
+4443;9508;Weingarten
+4444;9508;Weingarten-Kalthäusern
+4445;8534;Weiningen TG
+4446;8104;Weiningen ZH
+4447;9057;Weissbad
+4448;3766;Weissenbach
+4449;3764;Weissenburg
+4450;4515;Weissenstein b. Solothurn
+4451;8484;Weisslingen
+4452;7326;Weisstannen
+4453;9476;Weite
+4454;4716;Welschenrohr
+4455;3823;Wengen
+4456;3251;Wengi b. Büren
+4457;3714;Wengi b. Frutigen
+4458;4493;Wenslingen
+4459;9470;Werdenberg
+4460;7433;Wergenstein
+4461;8615;Wermatswil
+4462;8342;Wernetshausen
+4463;6106;Werthenstein
+4464;5430;Wettingen
+4465;5430;Wettingen 1
+4466;5430;Wettingen 2
+4467;5430;Wettingen 3
+4468;5431;Wettingen Sonderdienste
+4469;8907;Wettswil
+4470;8513;Wetzikon TG
+4471;8620;Wetzikon ZH
+4472;8622;Wetzikon ZH
+4473;8623;Wetzikon ZH
+4474;8620;Wetzikon ZH 1
+4475;8621;Wetzikon ZH 4
+4476;3114;Wichtrach
+4477;8967;Widen
+4478;9443;Widnau
+4479;4537;Wiedlisbach
+4480;9405;Wienacht-Tobel
+4481;7494;Wiesen GR
+4482;6383;Wiesenberg
+4483;8542;Wiesendangen
+4484;8372;Wiezikon b. Sirnach
+4485;6192;Wiggen
+4486;3053;Wiggiswil
+4487;8556;Wigoltingen
+4488;4806;Wikon
+4489;4347;Wil AG
+4490;9500;Wil SG
+4491;9500;Wil SG 1
+4492;9500;Wil SG 2
+4493;9500;Wil SG Ausgabe
+4494;8196;Wil ZH
+4495;8492;Wila
+4496;8217;Wilchingen
+4497;8321;Wildberg
+4498;5103;Wildegg
+4499;3812;Wilderswil
+4500;9658;Wildhaus
+4501;9225;Wilen (Gottshaus)
+4502;6062;Wilen (Sarnen)
+4503;8525;Wilen b. Neunforn
+4504;9535;Wilen b. Wil
+4505;8832;Wilen b. Wollerau
+4506;3918;Wiler (Lötschen)
+4507;3266;Wiler b. Seedorf
+4508;3428;Wiler b. Utzenstorf
+4509;3207;Wileroltigen
+4510;6261;Wiliberg
+4511;6261;Wiliberg-Hintermoos
+4512;6236;Wilihof
+4513;3425;Willadingen
+4514;8846;Willerzell
+4515;6130;Willisau
+4516;8253;Willisdorf
+4517;3752;Wimmis
+4518;9307;Winden
+4519;5200;Windisch
+4520;8175;Windlach
+4521;6235;Winikon
+4522;4558;Winistorf
+4523;8185;Winkel b. Bülach
+4524;8312;Winterberg ZH
+4525;4451;Wintersingen
+4526;8400;Winterthur
+4527;8402;Winterthur
+4528;8403;Winterthur
+4529;8404;Winterthur
+4530;8405;Winterthur
+4531;8406;Winterthur
+4532;8407;Winterthur
+4533;8408;Winterthur
+4534;8409;Winterthur
+4535;8410;Winterthur
+4536;8411;Winterthur
+4537;8400;Winterthur 1 Ausgabe
+4538;8401;Winterthur 1 Fächer
+4539;8439;Winterthur Ausgänge
+4540;8401;Winterthur TD
+4541;4652;Winznau
+4542;4634;Wisen SO
+4543;8439;Wislikofen
+4544;9303;Wittenbach
+4545;9547;Wittenwil
+4546;4108;Witterswil
+4547;4443;Wittinsburg
+4548;5265;Wittnau
+4549;5053;Wittwil
+4550;5610;Wohlen AG
+4551;5610;Wohlen AG 1
+4552;5610;Wohlen AG 2
+4553;3033;Wohlen b. Bern
+4554;5512;Wohlenschwil
+4555;6386;Wolfenschiessen
+4556;9116;Wolfertswil
+4557;9427;Wolfhalden
+4558;8633;Wolfhausen
+4559;4704;Wolfisberg
+4560;5266;Wölflinswil
+4561;4855;Wolfwil
+4562;6110;Wolhusen
+4563;8832;Wollerau
+4564;3076;Worb
+4565;3076;Worb 1
+4566;3076;Worb 2
+4567;3252;Worben
+4568;3048;Worblaufen
+4569;5012;Wöschnau
+4570;3184;Wünnewil
+4571;9514;Wuppenau
+4572;5303;Würenlingen
+4573;8116;Würenlos
+4574;4923;Wynau
+4575;3472;Wynigen
+4576;4954;Wyssachen
+4577;1137;Yens
+4578;1401;Yverdon
+4579;1400;Yverdon 1
+4580;1400;Yverdon 2
+4581;1400;Yverdon 3
+4582;1400;Yverdon RCP
+4583;1400;Yverdon-les-Bains
+4584;1462;Yvonand
+4585;1853;Yvorne
+4586;3309;Zauggenried
+4587;3532;Zäziwil
+4588;4495;Zeglingen
+4589;5256;Zeihen
+4590;4314;Zeiningen
+4591;9427;Zelg (Wolfhalden)
+4592;6144;Zell LU
+4593;8487;Zell ZH
+4594;1724;Zénauva
+4595;3934;Zeneggen
+4596;3920;Zermatt
+4597;7530;Zernez
+4598;5732;Zetzwil
+4599;9556;Zezikon
+4600;4417;Ziefen
+4601;8866;Ziegelbrücke
+4602;4564;Zielebach
+4603;7167;Zignau
+4604;8588;Zihlschlacht
+4605;7432;Zillis
+4606;3086;Zimmerwald
+4607;3961;Zinal
+4608;7205;Zizers
+4609;4800;Zofingen
+4610;4801;Zofingen Ringier AG
+4611;3436;Zollbrück
+4612;8125;Zollikerberg
+4613;3052;Zollikofen
+4614;8702;Zollikon
+4615;8702;Zollikon Dorf
+4616;8702;Zollikon Station
+4617;8585;Zuben
+4618;9523;Züberwangen
+4619;4528;Zuchwil
+4620;9526;Zuckenriet
+4621;5620;Zufikon
+4622;6300;Zug
+4623;6301;Zug
+4624;6302;Zug
+4625;6303;Zug
+4626;6304;Zug
+4627;6305;Zug
+4628;6300;Zug 1
+4629;6310;Zug Sonderdienste
+4630;6300;Zugerberg
+4631;4234;Zullwil
+4632;1719;Zumholz
+4633;8126;Zumikon
+4634;4455;Zunzgen
+4635;7524;Zuoz
+4636;9107;Zürchersmühle
+4637;8000;Zürich
+4638;8001;Zürich
+4639;8002;Zürich
+4640;8003;Zürich
+4641;8004;Zürich
+4642;8005;Zürich
+4643;8006;Zürich
+4644;8008;Zürich
+4645;8020;Zürich
+4646;8021;Zürich
+4647;8022;Zürich
+4648;8023;Zürich
+4649;8024;Zürich
+4650;8025;Zürich
+4651;8026;Zürich
+4652;8027;Zürich
+4653;8028;Zürich
+4654;8029;Zürich
+4655;8030;Zürich
+4656;8031;Zürich
+4657;8032;Zürich
+4658;8033;Zürich
+4659;8034;Zürich
+4660;8035;Zürich
+4661;8036;Zürich
+4662;8037;Zürich
+4663;8038;Zürich
+4664;8039;Zürich
+4665;8040;Zürich
+4666;8041;Zürich
+4667;8042;Zürich
+4668;8043;Zürich
+4669;8044;Zürich
+4670;8045;Zürich
+4671;8046;Zürich
+4672;8047;Zürich
+4673;8048;Zürich
+4674;8049;Zürich
+4675;8050;Zürich
+4676;8051;Zürich
+4677;8052;Zürich
+4678;8053;Zürich
+4679;8055;Zürich
+4680;8056;Zürich
+4681;8057;Zürich
+4682;8058;Zürich
+4683;8059;Zürich
+4684;8060;Zürich
+4685;8061;Zürich
+4686;8062;Zürich
+4687;8063;Zürich
+4688;8064;Zürich
+4689;8065;Zürich
+4690;8079;Zürich
+4691;8091;Zürich
+4692;8020;Zürich 1 Briefausgabe
+4693;8032;Zürich 32 Briefausgabe
+4694;8090;Zürich Amtsstellen Kt ZH
+4695;8036;Zürich Corona
+4696;8093;Zürich ETH-Hönggerberg
+4697;8092;Zürich ETH-Zentrum
+4698;8088;Zürich Jelmoli-Versand
+4699;8020;Zürich KPD
+4700;8080;Zürich Postcheckamt
+4701;8050;Zürich RPZ
+4702;8052;Zürich SB Birchhof
+4703;8045;Zürich SB Friesenberg
+4704;8004;Zürich SB Lochergut
+4705;8070;Zürich SKA
+4706;8099;Zürich Sonderdienste
+4707;8021;Zürich TD
+4708;8010;Zürich-Mülligen Postzentr
+4709;8437;Zurzach
+4710;4315;Zuzgen
+4711;3304;Zuzwil BE
+4712;9524;Zuzwil SG
+4713;8432;Zweidlen
+4714;3815;Zweilütschinen
+4715;3770;Zweisimmen
+4716;3645;Zwieselberg
+4717;8909;Zwillikon
+4718;4222;Zwingen
+4719;3756;Zwischenflüh
+4720;0;-
+4721;1921;Martigny-Combe
