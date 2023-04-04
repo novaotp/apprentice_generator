@@ -220,11 +220,9 @@ def generate_apprentices(apprentice_count, show_message=True):
 
     with tqdm.tqdm(total=apprentice_count) as progress_bar: # Cette ligne permet d'afficher une barre de progression lors de la génération des apprentis
         if no_duplicates:
-            generate_unique_apprentices(apprentice_count, apprentices, only_valais)
+            generate_unique_apprentices(apprentice_count, apprentices, only_valais, progress_bar)
         else:
-            generate_generic_apprentices()
-            
-        progress_bar.update(1)
+            generate_generic_apprentices(apprentice_count, apprentices, only_valais, progress_bar)
 
     if show_message:
         show_success_message()
@@ -233,7 +231,7 @@ def generate_apprentices(apprentice_count, show_message=True):
 
     return apprentices
 
-def generate_unique_apprentices(apprentice_count, apprentices, only_valais):
+def generate_unique_apprentices(apprentice_count, apprentices, only_valais, progress_bar):
     """
     
     Génère une liste d'apprentis avec une paire de (prénom + nom) unique
@@ -257,7 +255,9 @@ def generate_unique_apprentices(apprentice_count, apprentices, only_valais):
         apprentice = assemble_apprentice(first_name, last_name, npa, locality)
         apprentices.append(apprentice)
 
-def generate_generic_apprentices(apprentice_count, apprentices, only_valais):
+        progress_bar.update(1)
+
+def generate_generic_apprentices(apprentice_count, apprentices, only_valais, progress_bar):
     """
     
     Génère une liste d'apprentis avec une paire de (prénom + nom) unique
@@ -277,6 +277,8 @@ def generate_generic_apprentices(apprentice_count, apprentices, only_valais):
         apprentice = assemble_apprentice(first_name, last_name, npa, locality)
 
         apprentices.append(apprentice)
+            
+        progress_bar.update(1)
 
 def show_success_message():
     """
