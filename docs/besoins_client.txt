@@ -1,0 +1,29 @@
+!! Ceci est une simple prise de note !!
+
+besoins :
+
+	- pouvoir générer un jeu de test (nom, prénom, npa, localite) => liste
+		=> possibilite de choisir le nombre (faire des contrôles)
+	- localités valaisannes
+	- avoir ça dans un fichier .csv
+	- pouvoir visualiser la liste (si je veux)
+	- avoir une solution pour afficher (par bloc de 10) + pouvoir quitter aussi
+	- jeu de test => pas de redondances sur nom + prénom => contrôle de doublons
+	- pouvoir enregistrer la liste => préciser dans quel fichier => mettre un nom par défaut
+	- si fichier existe
+		- pouvoir décider si
+			- écraser ou renoncer
+	- interface utilisateur (console)
+		- ergonomique => facile à utiliser
+		- user-friendly
+		
+responsable :
+	- respecter les best-practices
+	- généralisation du code de manière optimale => flexibilité du code (pas de hardcodage)
+	
+		
+d'abord, exporter en fichier .csv
+	- encodage utf-8
+	- séparateur : ; (point-virgule)
+
+créer un readme.txt => expliquer vite fait
